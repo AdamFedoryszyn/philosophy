@@ -1,0 +1,2466 @@
+[
+  {
+    "name": "Niccolò Machiavelli",
+    "lifespan": "3 May 1469 – 21 June 1527",
+    "historical_period": "Renaissance, Early Modern",
+    "detailed_biography": "Niccolò Machiavelli was born in Florence into a minor noble family and received a humanist education in the classics. In 1498, he was appointed as secretary of the Florentine Republic’s second chancery, in which role he undertook diplomatic missions to major European courts, including France and the Holy Roman Empire. After the Medici returned to power in 1512, Machiavelli was dismissed, arrested, and tortured on suspicion of conspiracy before retiring to his estate to write. His two most influential works, 'The Prince' (1513) and 'Discourses on Livy' (c. 1517), lay out a stark political realism, arguing that rulers must sometimes engage in morally dubious actions for the stability of the state. Machiavelli’s separation of ethics from politics and his analysis of power dynamics marked a turning point in political theory, forging the foundation of modern realpolitik. His legacy endures in the term 'Machiavellian' to describe cunning statecraft, as well as in ongoing debates about the relationship between morality and governance.",
+    "key_ideas": [
+      "Political realism",
+      "Virtù and Fortuna",
+      "Separation of ethics from politics"
+    ],
+    "main_works": [
+      "The Prince",
+      "Discourses on Livy",
+      "The Art of War"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/machiavelli/",
+      "https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli"
+    ]
+  },
+  {
+    "name": "Francis Bacon",
+    "lifespan": "22 January 1561 – 9 April 1626",
+    "historical_period": "Renaissance, Scientific Revolution",
+    "detailed_biography": "Francis Bacon was born in London to a prominent family and educated at Trinity College, Cambridge, where he became critical of Aristotelian scholasticism. Called to the Bar in 1582, Bacon combined legal practice with political service, eventually rising to become Attorney General and Lord Chancellor of England. He championed inductive reasoning and empirical methods in works such as 'Novum Organum' (1620), laying the groundwork for the modern scientific method by critiquing the flawed mental 'idols' that obstruct human understanding. Bacon’s vision of science as a collaborative enterprise aimed at improving human welfare through technological progress influenced the Royal Society and Enlightenment thinkers. Despite his political downfall in 1621 due to corruption charges, Bacon’s philosophical contributions endure as the philosophical underpinnings of experimental science.",
+    "key_ideas": [
+      "Empiricism",
+      "Inductive method",
+      "Four idols"
+    ],
+    "main_works": [
+      "Novum Organum",
+      "The Advancement of Learning",
+      "Essays"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/francis-bacon/",
+      "https://en.wikipedia.org/wiki/Francis_Bacon"
+    ]
+  },
+  {
+    "name": "Thomas Hobbes",
+    "lifespan": "5 April 1588 – 4 December 1679",
+    "historical_period": "Early Modern, Enlightenment precursor",
+    "detailed_biography": "Thomas Hobbes was born in Malmesbury, Wiltshire, and educated at Oxford University, where he developed a strong foundation in classical learning. During the English Civil War, Hobbes fled to Paris, where he interacted with continental thinkers and began formulating his political philosophy. In 'Leviathan' (1651), Hobbes argued that in the state of nature, human life is 'solitary, poor, nasty, brutish, and short,' necessitating an absolute sovereign through a social contract to ensure peace. He emphasized materialism and determinism, rejecting the notion of innate rights outside of political construct. Hobbes’s ideas on sovereignty, secular authority, and human nature profoundly shaped modern political theory, laying the groundwork for later liberal and totalitarian ideologies alike.",
+    "key_ideas": [
+      "Social contract",
+      "State of nature",
+      "Absolute sovereignty"
+    ],
+    "main_works": [
+      "Leviathan",
+      "De Cive",
+      "De Corpore"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/hobbes/",
+      "https://en.wikipedia.org/wiki/Thomas_Hobbes"
+    ]
+  },
+  {
+    "name": "René Descartes",
+    "lifespan": "31 March 1596 – 11 February 1650",
+    "historical_period": "Rationalism, Early Modern",
+    "detailed_biography": "René Descartes was born in La Haye en Touraine (now Descartes, France) and educated at the Jesuit Collège Royal Henry-Le-Grand in La Flèche. He served in the Dutch States Army before turning to philosophy and mathematics, publishing 'Discourse on the Method' (1637), which introduced his methodic doubt and the famous dictum 'Cogito, ergo sum.' In 'Meditations on First Philosophy' (1641), Descartes developed Cartesian dualism, distinguishing between res cogitans (thinking substance) and res extensa (extended substance), profoundly influencing subsequent metaphysics. His contributions to analytic geometry bridged algebra and Euclidean geometry, showcasing the unity of mathematical and philosophical inquiry. Descartes’s emphasis on rational intuition and clear, distinct ideas cemented his status as the father of modern philosophy.",
+    "key_ideas": [
+      "Methodic doubt",
+      "Cogito ergo sum",
+      "Mind–body dualism"
+    ],
+    "main_works": [
+      "Meditations on First Philosophy",
+      "Discourse on the Method",
+      "Principles of Philosophy"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/descartes/",
+      "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes"
+    ]
+  },
+  {
+    "name": "John Locke",
+    "lifespan": "29 August 1632 – 28 October 1704",
+    "historical_period": "Enlightenment",
+    "detailed_biography": "John Locke was born in Wrington, Somerset, and studied at the Westminster School and Christ Church, Oxford, where he initially adhered to scholastic philosophy before turning to experimental science. After leaving Oxford for health reasons, Locke served as personal physician and advisor to the Earl of Shaftesbury, engaging in political debates of the Exclusion Crisis. In 'An Essay Concerning Human Understanding' (1689), he argued that the mind is a tabula rasa, formed through experience rather than innate ideas. His 'Two Treatises of Government' (1689) advanced the doctrine of natural rights—life, liberty, and property—and government as a consent-based institution, underpinning modern liberal democracy. Locke’s writings influenced the American and French Revolutions and remain foundational in political philosophy and epistemology.",
+    "key_ideas": [
+      "Tabula rasa",
+      "Empiricism",
+      "Natural rights",
+      "Government by consent"
+    ],
+    "main_works": [
+      "An Essay Concerning Human Understanding",
+      "Two Treatises of Government",
+      "A Letter Concerning Toleration"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/locke/",
+      "https://en.wikipedia.org/wiki/John_Locke"
+    ]
+  },
+  {
+    "name": "Baruch Spinoza",
+    "lifespan": "24 November 1632 – 21 February 1677",
+    "historical_period": "Rationalism",
+    "detailed_biography": "Baruch Spinoza was born in Amsterdam to a Portuguese Sephardi Jewish community and schooled in Talmudic study before embracing Cartesian rationalism. Excommunicated in 1656 for his heterodox views, he earned a living as a lens grinder while writing 'Ethics' (posthumously 1677) in which he employed a geometric method to derive metaphysical and ethical truths. Spinoza posited a single substance, God or Nature (Deus sive Natura), rejecting mind–body dualism and advocating for intellectual love of God. His determinism and critique of anthropomorphic religion stirred controversy but influenced Enlightenment secularism and modern biblical criticism. Spinoza’s optimistic ethics, emphasizing freedom through understanding necessity, continue to inspire contemporary discussions in philosophy and theology.",
+    "key_ideas": [
+      "Substance monism",
+      "Determinism",
+      "Geometric method",
+      "Intellectual love of God"
+    ],
+    "main_works": [
+      "Ethics",
+      "Tractatus Theologico-Politicus"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/spinoza/",
+      "https://en.wikipedia.org/wiki/Baruch_Spinoza"
+    ]
+  },
+  {
+    "name": "Gottfried Wilhelm Leibniz",
+    "lifespan": "1 July 1646 – 14 November 1716",
+    "historical_period": "Rationalism",
+    "detailed_biography": "Gottfried Wilhelm Leibniz was born in Leipzig, showing talents in languages and mathematics from a young age. Educated at the University of Leipzig and University of Altdorf, he developed calculus independently alongside Newton, while also producing significant work in metaphysics, logic, and engineering. In his 'Monadology' (1714), Leibniz described a universe composed of simple substances called monads, each reflecting the entire cosmos in a pre-established harmony orchestrated by God. He argued for the principle of sufficient reason and optimism, famously asserting that we live in 'the best of all possible worlds.' Leibniz’s polymath contributions span philosophy, mathematics, jurisprudence, and early computer science, leaving a lasting legacy across disciplines.",
+    "key_ideas": [
+      "Monadology",
+      "Pre-established harmony",
+      "Principle of sufficient reason",
+      "Optimism"
+    ],
+    "main_works": [
+      "Monadology",
+      "Discourse on Metaphysics"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/leibniz/",
+      "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"
+    ]
+  },
+  {
+    "name": "Giambattista Vico",
+    "lifespan": "23 June 1668 – 23 January 1744",
+    "historical_period": "Enlightenment, Philosophy of History",
+    "detailed_biography": "Giambattista Vico, born in Naples, trained in law and humanities, developed a philosophy emphasizing the cultural and historical development of societies. In his seminal work 'The New Science' (1725), Vico introduced the concept of 'corsi e ricorsi storico' (cycles of history), arguing that civilizations go through recurrent stages shaped by language, myth, and social institutions. He asserted 'verum ipsum factum'—that truth is verified through creation—proposing that humans can only truly know what they themselves have made, positioning human agency at the center of historical knowledge. Vico’s integration of mythology, poetry, and law into a systematic historical framework influenced later thinkers in sociology, anthropology, and hermeneutics.",
+    "key_ideas": [
+      "Historical cycles (corsi e ricorsi)",
+      "Verum ipsum factum",
+      "Role of myth and poetry"
+    ],
+    "main_works": [
+      "The New Science"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/vico/",
+      "https://en.wikipedia.org/wiki/Giambattista_Vico"
+    ]
+  },
+  {
+    "name": "George Berkeley",
+    "lifespan": "12 March 1685 – 14 January 1753",
+    "historical_period": "Early Modern, Idealism",
+    "detailed_biography": "George Berkeley, an Anglo-Irish philosopher and bishop, challenged materialist ontology with his theory of immaterialism, famously summarizing it as 'esse est percipi' (to be is to be perceived). In works such as 'A Treatise Concerning the Principles of Human Knowledge' (1710) and 'Three Dialogues between Hylas and Philonous' (1713), he argued that objects exist only in minds and are sustained by the continuous perception of God. Berkeley critiqued abstraction and defended empirical idealism, influencing later developments in phenomenology and idealist metaphysics. His arguments against the existence of matter advanced debates on perception, language, and the nature of reality.",
+    "key_ideas": [
+      "Immaterialism",
+      "Esse est percipi",
+      "God as ultimate perceiver"
+    ],
+    "main_works": [
+      "A Treatise Concerning the Principles of Human Knowledge",
+      "Three Dialogues between Hylas and Philonous"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/berkeley/",
+      "https://en.wikipedia.org/wiki/George_Berkeley"
+    ]
+  },
+  {
+    "name": "Montesquieu",
+    "lifespan": "18 January 1689 – 10 February 1755",
+    "historical_period": "Enlightenment, Political Philosophy",
+    "detailed_biography": "Charles-Louis de Secondat, Baron de La Brède et de Montesquieu, was a French aristocrat and political philosopher whose work 'The Spirit of the Laws' (1748) articulated the theory of separation of powers. He analyzed different forms of government—republics, monarchies, and despotisms—and linked them to social, economic, and climatic factors. Montesquieu’s comparative method and advocacy for checks and balances profoundly influenced the framers of the United States Constitution and modern democratic institutions. His interdisciplinary approach bridged law, sociology, and politics, laying groundwork for social sciences.",
+    "key_ideas": [
+      "Separation of powers",
+      "Typology of governments",
+      "Climatic determinism"
+    ],
+    "main_works": [
+      "The Spirit of the Laws"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/montesquieu/",
+      "https://en.wikipedia.org/wiki/Montesquieu"
+    ]
+  },
+  {
+    "name": "David Hume",
+    "lifespan": "7 May 1711 – 25 August 1776",
+    "historical_period": "Enlightenment, Empiricism",
+    "detailed_biography": "David Hume, born in Edinburgh, was a Scottish philosopher, historian, and economist. In 'A Treatise of Human Nature' (1739–40), he argued that human understanding arises from impressions and ideas, establishing a meticulous empiricist psychology. Hume’s 'An Enquiry Concerning Human Understanding' (1748) introduced his problem of induction, questioning the logical basis for causal inference, and 'Dialogues Concerning Natural Religion' (posthumous, 1779) critiqued arguments for God’s existence. His bundle theory of the self denied a permanent identity, viewing personal identity as a collection of perceptions. Hume’s skepticism regarding causality and his naturalistic ethics influenced Kant’s critical philosophy and the development of analytic thought.",
+    "key_ideas": [
+      "Empiricism and impressions",
+      "Problem of induction",
+      "Bundle theory of self",
+      "Naturalistic ethics"
+    ],
+    "main_works": [
+      "A Treatise of Human Nature",
+      "An Enquiry Concerning Human Understanding",
+      "Dialogues Concerning Natural Religion"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/hume/",
+      "https://en.wikipedia.org/wiki/David_Hume"
+    ]
+  },
+  {
+    "name": "Jean-Jacques Rousseau",
+    "lifespan": "28 June 1712 – 2 July 1778",
+    "historical_period": "Enlightenment, Political Philosophy",
+    "detailed_biography": "Jean-Jacques Rousseau, from Geneva, was a multifaceted writer whose political and educational theories catalyzed revolutionary change. In 'Discourse on the Origin and Basis of Inequality Among Men' (1755), he examined natural human equality versus social inequality. His 'Social Contract' (1762) introduced the concept of the general will as the sovereign will of the people, and 'Emile, or On Education' (1762) outlined a model for holistic education that fosters natural development. Rousseau’s emphasis on authenticity, emotion, and direct democracy impacted Romanticism, revolutionary ideology, and modern pedagogy.",
+    "key_ideas": [
+      "General will",
+      "Natural human goodness",
+      "Critique of civilization",
+      "Educational naturalism"
+    ],
+    "main_works": [
+      "Discourse on Inequality",
+      "The Social Contract",
+      "Emile, or On Education"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/rousseau/",
+      "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
+    ]
+  },
+  {
+    "name": "Immanuel Kant",
+    "lifespan": "22 April 1724 – 12 February 1804",
+    "historical_period": "Enlightenment, Critical Philosophy",
+    "detailed_biography": "Immanuel Kant, based in Königsberg, developed a critical philosophy that revolutionized epistemology and ethics. In 'Critique of Pure Reason' (1781), he synthesized rationalism and empiricism by proposing that knowledge arises from sensory input structured by a priori categories of understanding. His moral philosophy, articulated in 'Critique of Practical Reason' (1788) and 'Groundwork of the Metaphysics of Morals' (1785), centered on the categorical imperative, an unconditional moral law derived from reason. Kant distinguished phenomena (the world as experienced) from noumena (things-in-themselves), setting limits to metaphysics. His work laid foundations for German Idealism and remains central to contemporary debates in ethics and epistemology.",
+    "key_ideas": [
+      "Transcendental idealism",
+      "Categorical imperative",
+      "Phenomena vs. noumena",
+      "Synthetic a priori"
+    ],
+    "main_works": [
+      "Critique of Pure Reason",
+      "Groundwork of the Metaphysics of Morals",
+      "Critique of Practical Reason"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/kant/",
+      "https://en.wikipedia.org/wiki/Immanuel_Kant"
+    ]
+  },
+  {
+    "name": "Moses Mendelssohn",
+    "lifespan": "6 September 1729 – 4 January 1786",
+    "historical_period": "Enlightenment, Jewish Enlightenment (Haskalah)",
+    "detailed_biography": "Moses Mendelssohn, born in Dessau, was a leading figure of the Haskalah, advocating Jewish integration and religious tolerance. His 'Jerusalem' (1783) defended the separation of church and state and argued for civil rights irrespective of religious affiliation. Mendelssohn’s 'Phaedon' (1767) offered a philosophical defense of the immortality of the soul. He influenced German Enlightenment thinkers and laid groundwork for modern Jewish thought by reconciling rational philosophy with religious tradition.",
+    "key_ideas": [
+      "Religious tolerance",
+      "Rational faith",
+      "Civil emancipation"
+    ],
+    "main_works": [
+      "Jerusalem",
+      "Phaedon"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/mendelssohn/",
+      "https://en.wikipedia.org/wiki/Moses_Mendelssohn"
+    ]
+  },
+  {
+    "name": "Marquis de Condorcet",
+    "lifespan": "17 September 1743 – 29 March 1794",
+    "historical_period": "Enlightenment, Political Science",
+    "detailed_biography": "Nicolas de Condorcet, French mathematician and philosopher, championed progress and equality during the Enlightenment. In 'Sketch for a Historical Picture of the Progress of the Human Mind' (1795), he outlined a vision of human perfectibility through reason, science, and social reform. He developed the Condorcet method for voting, emphasizing collective decision-making and majority preference. Condorcet advocated for women’s rights, abolition of slavery, and educational reform, embodying Enlightenment ideals of progress and human rights.",
+    "key_ideas": [
+      "Theory of progress",
+      "Condorcet voting method",
+      "Human perfectibility"
+    ],
+    "main_works": [
+      "Sketch for a Historical Picture of the Progress of the Human Mind"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/condorcet/",
+      "https://en.wikipedia.org/wiki/Nicolas_de_Condorcet"
+    ]
+  },
+  {
+    "name": "Jeremy Bentham",
+    "lifespan": "15 February 1748 – 6 June 1832",
+    "historical_period": "Enlightenment, Utilitarianism",
+    "detailed_biography": "Jeremy Bentham, educated at Oxford, founded modern utilitarianism by positing the principle of utility as the basis for ethics and legislation. In 'An Introduction to the Principles of Morals and Legislation' (1789), he introduced the hedonic calculus to measure pleasure and pain quantitatively. Bentham argued for legal reforms including decriminalization, animal welfare, and democratic representation. His panopticon design exemplified his belief in rational social engineering; his work influenced 19th-century reforms and continues to shape policy analysis.",
+    "key_ideas": [
+      "Greatest happiness principle",
+      "Hedonic calculus",
+      "Legal utilitarianism"
+    ],
+    "main_works": [
+      "An Introduction to the Principles of Morals and Legislation"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/bentham/",
+      "https://en.wikipedia.org/wiki/Jeremy_Bentham"
+    ]
+  },
+  {
+    "name": "Georg Wilhelm Friedrich Hegel",
+    "lifespan": "27 August 1770 – 14 November 1831",
+    "historical_period": "German Idealism",
+    "detailed_biography": "Georg Wilhelm Friedrich Hegel, born in Stuttgart, developed a comprehensive dialectical system in works like 'Phenomenology of Spirit' (1807) and 'Science of Logic' (1812–16). He conceptualized the dialectical process—thesis, antithesis, synthesis—as the mechanism of historical and conceptual development. Hegel’s absolute idealism posited that reality is the unfolding of the World Spirit (Geist) realizing itself through history, art, religion, and philosophy. His political philosophy in 'Elements of the Philosophy of Right' (1821) elaborated on freedom as self-determination within ethical life (Sittlichkeit), influencing Marx, existentialists, and contemporary critical theory.",
+    "key_ideas": [
+      "Dialectical method",
+      "Absolute idealism",
+      "World Spirit"
+    ],
+    "main_works": [
+      "Phenomenology of Spirit",
+      "Science of Logic",
+      "Elements of the Philosophy of Right"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/hegel/",
+      "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
+    ]
+  },
+  {
+    "name": "Arthur Schopenhauer",
+    "lifespan": "22 February 1788 – 21 September 1860",
+    "historical_period": "19th Century, Pessimism",
+    "detailed_biography": "Arthur Schopenhauer, from Danzig, synthesized Eastern philosophy with Kantian thought in 'The World as Will and Representation' (1818). He identified the will as the noumenal essence driving all phenomena, portraying life as sufferance due to insatiable desires. Schopenhauer emphasized aesthetic contemplation and compassion as escapes from the will’s demands. His pessimistic metaphysics influenced Nietzsche, existentialists, and modern psychology.",
+    "key_ideas": [
+      "Will as thing-in-itself",
+      "Pessimism",
+      "Aesthetic escape",
+      "Compassion ethics"
+    ],
+    "main_works": [
+      "The World as Will and Representation"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/schopenhauer/",
+      "https://en.wikipedia.org/wiki/Arthur_Schopenhauer"
+    ]
+  },
+  {
+    "name": "Auguste Comte",
+    "lifespan": "19 January 1798 – 5 September 1857",
+    "historical_period": "19th Century, Positivism",
+    "detailed_biography": "Auguste Comte, educated under Henri de Saint-Simon, coined positivism in 'Course of Positive Philosophy' (1830–42), proposing that human thought progresses through theological, metaphysical, and positive stages. He systematized sociology as the highest science, governed by empirical observation and hierarchical analysis from mathematics to sociology. Comte’s 'System of Positive Polity' (1851–54) applied positivist principles to social organization, advocating moral education and a secular 'religion of humanity.' His framework shaped the development of social sciences and secular-humanist thought.",
+    "key_ideas": [
+      "Law of three stages",
+      "Positivism",
+      "Hierarchy of sciences"
+    ],
+    "main_works": [
+      "Course of Positive Philosophy",
+      "System of Positive Polity"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/comte/",
+      "https://en.wikipedia.org/wiki/Auguste_Comte"
+    ]
+  },
+  {
+    "name": "John Stuart Mill",
+    "lifespan": "20 May 1806 – 8 May 1873",
+    "historical_period": "19th Century, Utilitarianism, Liberalism",
+    "detailed_biography": "John Stuart Mill, tutored by James Mill and Jeremy Bentham, refined utilitarianism and advanced liberal thought. In 'On Liberty' (1859), he defended individual freedom against societal tyranny, articulating the harm principle that restricts only actions harming others. His 'Utilitarianism' (1861) clarified qualitative distinctions of pleasures, emphasizing higher intellectual and moral pleasures over mere sensation. Mill’s 'The Subjection of Women' (1869) argued for gender equality based on principle of individual rights. His integrative approach influenced social policy, ethics, and feminist theory.",
+    "key_ideas": [
+      "Harm principle",
+      "Qualitative utilitarianism",
+      "Individual liberty",
+      "Gender equality"
+    ],
+    "main_works": [
+      "On Liberty",
+      "Utilitarianism",
+      "The Subjection of Women"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/mill/",
+      "https://en.wikipedia.org/wiki/John_Stuart_Mill"
+    ]
+  },
+  {
+    "name": "Søren Kierkegaard",
+    "lifespan": "5 May 1813 – 11 November 1855",
+    "historical_period": "19th Century, Existentialism Precursor",
+    "detailed_biography": "Søren Kierkegaard, from Copenhagen, critiqued systematic philosophy in favor of Christian existentialism centered on individual choice and faith. Works such as 'Either/Or' (1843) and 'Fear and Trembling' (1843) explore stages of life— aesthetic, ethical, and religious—culminating in the 'leap of faith' beyond rationality. He emphasized subjectivity, despair, and authenticity, influencing existentialism, theology, and psychology. Kierkegaard’s focus on personal existence and critique of Christendom reshaped modern understandings of faith and self.",
+    "key_ideas": [
+      "Leap of faith",
+      "Stages of existence",
+      "Subjectivity",
+      "Despair"
+    ],
+    "main_works": [
+      "Either/Or",
+      "Fear and Trembling",
+      "The Sickness Unto Death"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/kierkegaard/",
+      "https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard"
+    ]
+  },
+  {
+    "name": "Karl Marx",
+    "lifespan": "5 May 1818 – 14 March 1883",
+    "historical_period": "19th Century Philosophy, Political Theory",
+    "detailed_biography": "Karl Marx was born in Trier, Prussia, and studied law and philosophy at the Universities of Bonn and Berlin. He collaborated with Friedrich Engels to produce the 'Communist Manifesto' (1848), advocating for the overthrow of capitalist societies and the establishment of a classless commonwealth. Marx’s magnum opus, 'Das Kapital' (1867–1894), offers a critical analysis of political economy, introducing concepts such as surplus value, commodity fetishism, and historical materialism. His theory of class struggle posits that all historical developments are driven by conflicts between oppressor and oppressed classes, laying the foundation for Marxist movements worldwide.",
+    "key_ideas": [
+      "Historical materialism",
+      "Class struggle",
+      "Surplus value",
+      "Alienation"
+    ],
+    "main_works": [
+      "The Communist Manifesto",
+      "Das Kapital"
+    ],
+    "influence_reception": "Marx’s work profoundly influenced sociology, economics, political science, and revolutionary movements globally. His ideas shaped the development of social-democratic and communist parties, inspired revolutions in Russia and China, and continue to inform critiques of capitalism.",
+    "secondary_literature": [
+      "Jonathan Sperber, 'Karl Marx: A Nineteenth-Century Life'",
+      "David McLellan, 'Karl Marx: His Life and Thought'"
+    ],
+    "key_quotes": [
+      "\"Workers of the world unite; you have nothing to lose but your chains.\"",
+      "\"The history of all hitherto existing society is the history of class struggles.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/marx/",
+      "https://en.wikipedia.org/wiki/Karl_Marx"
+    ]
+  },
+  {
+    "name": "Herbert Spencer",
+    "lifespan": "27 April 1820 – 8 December 1903",
+    "historical_period": "19th Century Philosophy, Social Theory",
+    "detailed_biography": "Herbert Spencer was an English philosopher and sociologist born in Derby. He applied evolutionary theory to social and ethical issues, coining the term 'survival of the fittest' and arguing that societies evolve through a process analogous to biological evolution. Spencer’s major works include 'Social Statics' (1851) and the multi-volume 'The Principles of Sociology' (1876–96), in which he explored the development of social institutions and contended for limited government intervention.",
+    "key_ideas": [
+      "Social Darwinism",
+      "Individualism",
+      "Evolutionary social theory"
+    ],
+    "main_works": [
+      "Social Statics",
+      "The Principles of Sociology"
+    ],
+    "influence_reception": "Spencer’s ideas gained wide popularity in the late 19th century, influencing liberal economic policies, American individualism, and early sociological thought. He was later critiqued for justifying social inequalities through misapplied evolutionary concepts.",
+    "secondary_literature": [
+      "Robert D. Bannister, 'Social Darwinism: Science and Myth in Anglo-American Social Thought'",
+      "Mark Francis, 'Herbert Spencer and the Invention of Modern Life'"
+    ],
+    "key_quotes": [
+      "\"There is a principle which is a bar against all information, which is proof against all arguments, and which cannot fail to keep a man in everlasting ignorance—that principle is contempt prior to investigation.\"",
+      "\"Survival of the fittest.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/spencer/",
+      "https://en.wikipedia.org/wiki/Herbert_Spencer"
+    ]
+  },
+  {
+    "name": "Wilhelm Dilthey",
+    "lifespan": "19 November 1833 – 1 October 1911",
+    "historical_period": "19th–20th Century Philosophy, Hermeneutics",
+    "detailed_biography": "Wilhelm Dilthey, born in Biebrich, Germany, distinguished between the natural sciences (Naturwissenschaften) and the human sciences (Geisteswissenschaften). He developed the hermeneutic method for understanding human expressions—texts, art, and history—emphasizing empathy (Verstehen) as opposed to mere explanation (Erklären). In works like 'Introduction to the Human Sciences' (1883), he argued that historical and cultural contexts shape human consciousness and experience.",
+    "key_ideas": [
+      "Verstehen (understanding)",
+      "Erklären (explanation)",
+      "Historical context of human sciences"
+    ],
+    "main_works": [
+      "Introduction to the Human Sciences",
+      "The Formation of the Historical World in the Human Sciences"
+    ],
+    "influence_reception": "Dilthey’s hermeneutics laid foundations for later phenomenology and existentialism, influencing thinkers like Heidegger, Gadamer, and Ricoeur. His emphasis on historical consciousness shaped modern qualitative research methods.",
+    "secondary_literature": [
+      "George T. Thomas, 'Dilthey's Hermeneutic Realism'",
+      "Francesco Cordella (ed.), 'Wilhelm Dilthey: Selected Works'"
+    ],
+    "key_quotes": [
+      "\"Man lives from understanding.\"",
+      "\"Only through understanding can we grasp the significance of human life and culture.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Wilhelm_Dilthey",
+      "https://iep.utm.edu/dilthey/"
+    ]
+  },
+  {
+    "name": "William James",
+    "lifespan": "11 January 1842 – 26 August 1910",
+    "historical_period": "19th–20th Century Philosophy, Pragmatism",
+    "detailed_biography": "William James was born in New York City into an intellectually prominent family and studied at Harvard University, where he later became a professor. His seminal work 'The Principles of Psychology' (1890) laid the foundations for modern psychology by exploring consciousness, habit, and emotion. James developed the philosophical school of pragmatism, articulated in 'Pragmatism: A New Name for Some Old Ways of Thinking' (1907), emphasizing the practical consequences of belief as the criterion for truth. He also advanced 'radical empiricism,' asserting that relations are just as real as the things they connect. James’s interdisciplinary approach bridged psychology, philosophy, and theology, making him one of the most influential American thinkers of his era.",
+    "key_ideas": [
+      "Pragmatism (practical consequences as truth)",
+      "Radical empiricism",
+      "Stream of consciousness"
+    ],
+    "main_works": [
+      "The Principles of Psychology",
+      "Pragmatism",
+      "The Varieties of Religious Experience"
+    ],
+    "influence_reception": "James’s work shaped both psychology and philosophy, influencing behaviorism, functional psychology, and later pragmatists like John Dewey and Richard Rorty. His ideas on belief and truth continue to inform contemporary debates in epistemology and the philosophy of mind.",
+    "secondary_literature": [
+      "Richard G. Hardwig, 'William James: A Biography'",
+      "Bruce Kuklick, 'The Rise of American Philosophy: William James and John Dewey'"
+    ],
+    "key_quotes": [
+      "\"The greatest discovery of any generation is that a human can alter his life by altering his attitude of mind.\"",
+      "\"My experience is what I agree to attend to.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/William_James",
+      "https://plato.stanford.edu/entries/james/"
+    ]
+  },
+  {
+    "name": "Friedrich Nietzsche",
+    "lifespan": "15 October 1844 – 25 August 1900",
+    "historical_period": "19th Century Philosophy, Existentialism precursor",
+    "detailed_biography": "Friedrich Nietzsche was born in Röcken, Prussia, and educated at the University of Bonn and Leipzig, where he studied philology. His early work, 'The Birth of Tragedy' (1872), synthesized Greek tragedy and Schopenhauerian pessimism. In later books such as 'Thus Spoke Zarathustra' (1883–85) and 'Beyond Good and Evil' (1886), Nietzsche introduced key concepts like the Übermensch, eternal recurrence, and the will to power, challenging traditional morality and Christian values. His critique of truth as a mobile army of metaphors anticipated postmodern skepticism. Nietzsche’s writing style—aphoristic and polemical—has had a profound cultural impact beyond philosophy.",
+    "key_ideas": [
+      "Will to power",
+      "Übermensch",
+      "Eternal recurrence",
+      "Critique of morality"
+    ],
+    "main_works": [
+      "Thus Spoke Zarathustra",
+      "Beyond Good and Evil",
+      "On the Genealogy of Morality"
+    ],
+    "influence_reception": "Nietzsche influenced existentialism, post-structuralism, and critical theory. Thinkers from Heidegger to Foucault and Derrida engaged with his work, and his ideas continue to resonate in debates on nihilism and value.",
+    "secondary_literature": [
+      "Walter Kaufmann, 'Nietzsche: Philosopher, Psychologist, Antichrist'",
+      "R. J. Hollingdale, 'Nietzsche: The Man and His Philosophy'"
+    ],
+    "key_quotes": [
+      "\"God is dead.\"",
+      "\"He who fights with monsters should look to it that he himself does not become a monster.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "https://plato.stanford.edu/entries/nietzsche/"
+    ]
+  },
+  {
+    "name": "Gottlob Frege",
+    "lifespan": "8 November 1848 – 26 July 1925",
+    "historical_period": "19th–20th Century Philosophy, Analytic Philosophy",
+    "detailed_biography": "Gottlob Frege was born in Wismar, Germany, and studied at the University of Jena, where he later became a professor. In 'Begriffsschrift' (1879), Frege developed a formal language for logic, pioneering predicate logic and quantification. His works 'The Foundations of Arithmetic' (1884) and the essay 'On Sense and Reference' (1892) laid the groundwork for analytical philosophy, introducing the distinction between Sinn (sense) and Bedeutung (reference). Frege’s rigorous approach to logic and language established the basis for 20th-century philosophy of language and mathematics.",
+    "key_ideas": [
+      "Sense and reference",
+      "Predicate logic",
+      "Function–argument analysis"
+    ],
+    "main_works": [
+      "Begriffsschrift",
+      "The Foundations of Arithmetic",
+      "On Sense and Reference"
+    ],
+    "influence_reception": "Frege influenced Bertrand Russell, Ludwig Wittgenstein, and the entire analytic tradition. His work underpins contemporary logic, semantics, and philosophy of mathematics.",
+    "secondary_literature": [
+      "Juliet Floyd & Patrick Corcoran (eds.), 'The Cambridge Companion to Frege'",
+      "Michael Potter, 'Frege'"
+    ],
+    "key_quotes": [
+      "\"By right thinking, we must not mean mere individual correct thought.\"",
+      "\"An expression always expresses something.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Gottlob_Frege",
+      "https://plato.stanford.edu/entries/frege/"
+    ]
+  },
+  {
+    "name": "Edmund Husserl",
+    "lifespan": "8 April 1859 – 27 April 1938",
+    "historical_period": "20th Century Philosophy, Phenomenology",
+    "detailed_biography": "Edmund Husserl was born in Proßnitz and studied mathematics at Leipzig before turning to philosophy under Brentano in Vienna. In 'Logical Investigations' (1900–01) he critiqued psychologism and established phenomenology as a rigorous science of consciousness. His later work 'Ideas I' (1913) introduced phenomenological reduction, epoché, and the analysis of intentionality to describe structures of experience. Husserl aimed to uncover the essential features of phenomena ‘to the things themselves.’ His methodologies shaped existentialism, hermeneutics, and cognitive science.",
+    "key_ideas": [
+      "Phenomenological reduction",
+      "Intentionality",
+      "Epoché",
+      "Lifeworld (Lebenswelt)"
+    ],
+    "main_works": [
+      "Logical Investigations",
+      "Ideas I"
+    ],
+    "influence_reception": "Husserl influenced Heidegger, Sartre, Merleau-Ponty, and the continental tradition. His phenomenological method remains central to qualitative research and philosophy of mind.",
+    "secondary_literature": [
+      "Dermot Moran, 'Introduction to Phenomenology'",
+      "Mark van Breda, 'Husserlian Meditations'"
+    ],
+    "key_quotes": [
+      "\"To the things themselves!\"",
+      "\"Consciousness is always consciousness of something.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Edmund_Husserl",
+      "https://plato.stanford.edu/entries/husserl/"
+    ]
+  },
+  {
+    "name": "Henri Bergson",
+    "lifespan": "18 October 1859 – 4 January 1941",
+    "historical_period": "20th Century Philosophy, Vitalism",
+    "detailed_biography": "Henri Bergson was born in Paris and educated at the École Normale Supérieure, winning the Nobel Prize in Literature in 1927. In 'Time and Free Will' (1889) he distinguished between measurable clock time and lived duration (la durée). His major work 'Creative Evolution' (1907) proposed élan vital as the life force driving evolutionary creativity, countering mechanistic theories. Bergson’s use of intuition as a philosophical method sought immediate insight into reality. He engaged with psychology, biology, and metaphysics, leaving a lasting mark on modernist thought.",
+    "key_ideas": [
+      "Duration (la durée)",
+      "Élan vital",
+      "Intuition as method"
+    ],
+    "main_works": [
+      "Time and Free Will",
+      "Creative Evolution"
+    ],
+    "influence_reception": "Bergson influenced thinkers like Sartre, Whitehead, and the surrealists, as well as debates in phenomenology and biology. His distinction between time and duration endures in philosophy of mind.",
+    "secondary_literature": [
+      "Kieran Setiya, 'Bergson: Key Concepts'",
+      "John Mullarkey, 'Bergson and Philosophy'"
+    ],
+    "key_quotes": [
+      "\"To exist is to change, to change is to mature.\"",
+      "\"Time is invention of the intellect.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Henri_Bergson",
+      "https://plato.stanford.edu/entries/bergson/"
+    ]
+  },
+  {
+    "name": "John Dewey",
+    "lifespan": "20 October 1859 – 1 June 1952",
+    "historical_period": "20th Century Philosophy, Pragmatism",
+    "detailed_biography": "John Dewey was born in Burlington, Vermont, and studied at the University of Vermont and Johns Hopkins University. He became a leading advocate for progressive education, detailed in 'Democracy and Education' (1916), which emphasized experiential learning and democratic classrooms. Dewey’s philosophical work, including 'Experience and Nature' (1925), advanced instrumentalism, viewing thought as an instrument for problem-solving. He argued that education, science, and art are interrelated processes of human experience. Dewey’s commitment to democracy extended to social and political theory, making him a pivotal figure in American philosophy.",
+    "key_ideas": [
+      "Learning by doing",
+      "Instrumentalism",
+      "Democratic education"
+    ],
+    "main_works": [
+      "Democracy and Education",
+      "Experience and Nature"
+    ],
+    "influence_reception": "Dewey’s theories transformed educational practices worldwide and influenced philosophers of education, social reformers, and pragmatic philosophers. His emphasis on lived experience resonates in contemporary pedagogy and community studies.",
+    "secondary_literature": [
+      "Richard J. Bernstein, 'John Dewey'",
+      "Thomas M. Alexander, 'John Dewey’s Theory of Art, Experience, and Nature'"
+    ],
+    "key_quotes": [
+      "\"Education is not preparation for life; education is life itself.\"",
+      "\"We do not learn from experience... we learn from reflecting on experience.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/John_Dewey",
+      "https://plato.stanford.edu/entries/dewey/"
+    ]
+  },
+  {
+    "name": "Alfred North Whitehead",
+    "lifespan": "15 February 1861 – 30 December 1947",
+    "historical_period": "20th Century Philosophy, Process Philosophy",
+    "detailed_biography": "Alfred North Whitehead was born in Ramsgate, England, and educated at Trinity College, Cambridge. Initially collaborating with Bertrand Russell on 'Principia Mathematica' (1910–13), he later developed process philosophy in 'Process and Reality' (1929), proposing that reality consists of interrelated events (actual occasions) rather than static substances. Whitehead’s metaphysics emphasizes creativity, change, and the interconnectedness of all entities, influencing theology, ecology, and the philosophy of science.",
+    "key_ideas": [
+      "Process metaphysics",
+      "Actual occasions",
+      "Creativity"
+    ],
+    "main_works": [
+      "Principia Mathematica",
+      "Process and Reality"
+    ],
+    "influence_reception": "Whitehead influenced theology (process theology), ecological thought, and systems theory. His process ontology continues to inspire interdisciplinary research.",
+    "secondary_literature": [
+      "Donald W. Sherburne, 'A Key to Whitehead's Process and Reality'",
+      "C. Robert Mesle, 'Process Theology: A Guide for the Perplexed'"
+    ],
+    "key_quotes": [
+      "\"Reality is a process of becoming.\"",
+      "\"The many become one and are increased by one.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Alfred_North_Whitehead",
+      "https://plato.stanford.edu/entries/whitehead-process/"
+    ]
+  },
+  {
+    "name": "Benedetto Croce",
+    "lifespan": "25 February 1866 – 20 November 1952",
+    "historical_period": "20th Century Philosophy, Idealism",
+    "detailed_biography": "Benedetto Croce was born in Pescasseroli, Italy, and studied law at the University of Naples before dedicating himself to philosophy and history. In works like 'Aesthetic as Science of Expression and General Linguistic' (1902) and 'History of Europe in the Nineteenth Century' (1931), Croce developed an aesthetics-centered philosophy, arguing that art is pure intuition expressed through form. He also conceived history as an expression of human spirit, intertwining philosophy, literature, and politics.",
+    "key_ideas": [
+      "Aesthetics as expression",
+      "History as philosophy",
+      "Linguistic intuition"
+    ],
+    "main_works": [
+      "Aesthetic as Science of Expression",
+      "History of Europe in the Nineteenth Century"
+    ],
+    "influence_reception": "Croce influenced Italian idealism and historiography, impacting thinkers like Gramsci and contemporary theories of cultural critique.",
+    "secondary_literature": [
+      "Giovanni Gentile, 'Benedetto Croce: A Critical Biography'",
+      "David H. Fischer, 'Benedetto Croce and the Uses of Historicism'"
+    ],
+    "key_quotes": [
+      "\"Art is intuition and expression.\"",
+      "\"History is life witnessed by the human spirit.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Benedetto_Croce",
+      "https://plato.stanford.edu/entries/croce/"
+    ]
+  },
+  {
+    "name": "Nishida Kitarō",
+    "lifespan": "16 May 1870 – 7 June 1945",
+    "historical_period": "20th Century Philosophy, Kyoto School",
+    "detailed_biography": "Nishida Kitarō was born in Ishikawa Prefecture, Japan, and studied philosophy in Kyoto and England. He founded the Kyoto School, blending Zen Buddhism with Western philosophy in works like 'An Inquiry into the Good' (1911) and 'Fundamental Problems of Philosophy' (1930). Nishida’s concept of 'pure experience' posits a pre-reflective state where subject and object are unified, offering a logic of place (basho) that transcends traditional dichotomies.",
+    "key_ideas": [
+      "Pure experience",
+      "Basho (place) logic",
+      "Self-awareness as world"
+    ],
+    "main_works": [
+      "An Inquiry into the Good",
+      "Fundamental Problems of Philosophy"
+    ],
+    "influence_reception": "Nishida influenced Japanese and global philosophy, paving the way for contemporary East-West philosophical dialogues and the Kyoto School’s development.",
+    "secondary_literature": [
+      "Michael Slote, 'Nishida Kitaro: The Philosophy of Nishida'",
+      "Masao Abe, 'A Zen Life: D. T. Suzuki Reader'"
+    ],
+    "key_quotes": [
+      "\"Pure experience is the fundamental reality.\"",
+      "\"Self and world are not separate.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Nishida_Kitar%C5%8D",
+      "https://plato.stanford.edu/entries/nishida/"
+    ]
+  },
+  {
+    "name": "Bertrand Russell",
+    "lifespan": "18 May 1872 – 2 February 1970",
+    "historical_period": "20th Century Philosophy, Analytic Philosophy",
+    "detailed_biography": "Bertrand Russell was born in Trellech, Wales, to an aristocratic family and studied at Trinity College, Cambridge. He co-authored 'Principia Mathematica' (1910–13) with Alfred North Whitehead, aiming to ground mathematics in logic. His later works, including 'The Problems of Philosophy' (1912) and 'A History of Western Philosophy' (1945), combined analytic rigor with accessible exposition. Russell was also an outspoken social critic and peace activist, earning the Nobel Prize in Literature in 1950.",
+    "key_ideas": [
+      "Logical atomism",
+      "Theory of descriptions",
+      "Analytic clarity"
+    ],
+    "main_works": [
+      "Principia Mathematica",
+      "The Problems of Philosophy",
+      "A History of Western Philosophy"
+    ],
+    "influence_reception": "Russell shaped analytic philosophy, logic, and analytic metaphysics. His advocacy for nuclear disarmament and social reform extended his impact beyond academia.",
+    "secondary_literature": [
+      "Ray Monk, 'Bertrand Russell: The Spirit of Solitude'",
+      "Nicholas Griffin, 'The Cambridge Companion to Bertrand Russell'"
+    ],
+    "key_quotes": [
+      "\"The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt.\"",
+      "\"Mathematics, rightly viewed, possesses not only truth but supreme beauty.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Bertrand_Russell",
+      "https://plato.stanford.edu/entries/russell/"
+    ]
+  },
+  {
+    "name": "G. E. Moore",
+    "lifespan": "4 November 1873 – 24 October 1958",
+    "historical_period": "20th Century Philosophy, Analytic Philosophy",
+    "detailed_biography": "G. E. Moore was born in London and studied at Cambridge, where he became a leading figure in the early analytic movement. In 'Principia Ethica' (1903), Moore argued against the naturalistic fallacy, claiming that 'good' is indefinable and a simple, non-natural property. His lectures, later published as 'Proof of an External World' (1939), provided rigorous arguments for common-sense realism and the existence of an external reality. Moore’s work established standards of clarity and argumentation that defined analytic philosophy.",
+    "key_ideas": [
+      "Naturalistic fallacy",
+      "Common-sense realism",
+      "Proof of an external world"
+    ],
+    "main_works": [
+      "Principia Ethica",
+      "Proof of an External World"
+    ],
+    "influence_reception": "Moore influenced Wittgenstein, Russell, and the analytic tradition, reinforcing the importance of linguistic analysis and ordinary language in philosophy.",
+    "secondary_literature": [
+      "Norman Malcolm, 'Moore and Ordinary Language'",
+      "A. C. Grayling, 'The Rustle of Language: An Inquiry into the Philosophy of G. E. Moore'"
+    ],
+    "key_quotes": [
+      "\"Good is good, and that is the end of the matter.\"",
+      "\"Here is one hand... and here is another.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/G._E._Moore",
+      "https://plato.stanford.edu/entries/moore/"
+    ]
+  },
+  {
+    "name": "Martin Buber",
+    "lifespan": "8 February 1878 – 13 June 1965",
+    "historical_period": "20th Century Philosophy, Existentialism",
+    "detailed_biography": "Martin Buber was born in Vienna and educated in Leipzig and Vienna. He served as a professor of social philosophy in Frankfurt before emigrating to Jerusalem in 1938. His landmark work 'I and Thou' (1923) presents a dialogical philosophy distinguishing the I–Thou relationship, grounded in direct, mutual presence, from the I–It relationship, characterized by objectification. Buber’s existential and religious thought emphasizes the importance of encounter and community, integrating Jewish mysticism with modern philosophy.",
+    "key_ideas": [
+      "I–Thou vs. I–It relationships",
+      "Dialogue as fundamental",
+      "Community and faith"
+    ],
+    "main_works": [
+      "I and Thou",
+      "The Way of Man"
+    ],
+    "influence_reception": "Buber influenced theology, psychology, and education, particularly dialogical therapy and communal studies. His work continues to shape interfaith dialogue and existential ethics.",
+    "secondary_literature": [
+      "Maurice S. Friedman, 'Martin Buber: The Life of Dialogue'",
+      "Paul Mendes-Flohr, 'Martin Buber: A Life of Faith and Dissent'"
+    ],
+    "key_quotes": [
+      "\"All journeys have secret destinations of which the traveler is unaware.\"",
+      "\"When two persons relate to each other authentically and humanly, God is the electricity that surges between them.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Martin_Buber",
+      "https://plato.stanford.edu/entries/buber/"
+    ]
+  },
+  {
+    "name": "Ludwig Wittgenstein",
+    "lifespan": "26 April 1889 – 29 April 1951",
+    "historical_period": "20th Century Philosophy, Analytic Philosophy",
+    "detailed_biography": "Ludwig Wittgenstein was born in Vienna into a prominent family and studied engineering before switching to philosophy under Bertrand Russell at Cambridge. In 'Tractatus Logico-Philosophicus' (1921), he developed the picture theory of language, proposing that propositions mirror the logical structure of reality. Returning to academia in the 1930s, Wittgenstein published 'Philosophical Investigations' (1953), introducing language games and meaning as use, radically shifting analytic philosophy.",
+    "key_ideas": [
+      "Picture theory of language",
+      "Language games",
+      "Meaning as use"
+    ],
+    "main_works": [
+      "Tractatus Logico-Philosophicus",
+      "Philosophical Investigations"
+    ],
+    "influence_reception": "Wittgenstein’s work shaped analytic philosophy, philosophy of language, and mind. His later philosophy influenced ordinary language analysis and post-analytic thought.",
+    "secondary_literature": [
+      "Ray Monk, 'Ludwig Wittgenstein: The Duty of Genius'",
+      "Peter Hacker, 'Wittgenstein: Connections and Controversies'"
+    ],
+    "key_quotes": [
+      "\"The limits of my language mean the limits of my world.\"",
+      "\"Whereof one cannot speak, thereof one must be silent.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein",
+      "https://plato.stanford.edu/entries/wittgenstein/"
+    ]
+  },
+  {
+    "name": "Martin Heidegger",
+    "lifespan": "26 September 1889 – 26 May 1976",
+    "historical_period": "20th Century Philosophy, Existential Phenomenology",
+    "detailed_biography": "Martin Heidegger was born in Messkirch, Germany, and studied under Edmund Husserl at Freiburg. His magnum opus 'Being and Time' (1927) introduces Dasein as the being for whom Being is a question and explores authenticity, being-in-the-world, and the ontological difference. Heidegger’s later work addresses technology, art, and language, developing a meditative thinking against the enframing of modernity.",
+    "key_ideas": [
+      "Dasein (being-there)",
+      "Authenticity vs. inauthenticity",
+      "Ontological difference"
+    ],
+    "main_works": [
+      "Being and Time",
+      "The Question Concerning Technology"
+    ],
+    "influence_reception": "Heidegger influenced existentialism, hermeneutics, deconstruction, and continental philosophy broadly. His ontology remains central to debates on technology and modernity.",
+    "secondary_literature": [
+      "Richard Polt, 'Heidegger: An Introduction'",
+      "François Fédier, 'Heidegger: The Introduction of Nazism into Philosophy'"
+    ],
+    "key_quotes": [
+      "\"Being is time.\"",
+      "\"Language is the house of Being.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Martin_Heidegger",
+      "https://plato.stanford.edu/entries/heidegger/"
+    ]
+  },
+  {
+    "name": "Rudolf Carnap",
+    "lifespan": "18 May 1891 – 14 September 1970",
+    "historical_period": "20th Century Philosophy, Logical Positivism",
+    "detailed_biography": "Rudolf Carnap was born in Ronsdorf, Germany, and studied philosophy in Jena under Rickert and Gabel. A leading figure in the Vienna Circle, he advocated the verification principle and developed formal methods in philosophy, notably in 'The Logical Structure of the World' (1928) and 'Logical Syntax of Language' (1934). Carnap sought to eliminate metaphysics through logical analysis and the construction of linguistic frameworks.",
+    "key_ideas": [
+      "Verification principle",
+      "Logical syntax",
+      "Elimination of metaphysics"
+    ],
+    "main_works": [
+      "The Logical Structure of the World",
+      "Logical Syntax of Language"
+    ],
+    "influence_reception": "Carnap shaped analytic philosophy, philosophy of science, and semantics. His work paved the way for later developments in philosophy of language and formal epistemology.",
+    "secondary_literature": [
+      "Michael Friedman, 'Reconsidering Logical Positivism'",
+      "Peter Hylton, 'Russell, Idealism, and the Emergence of Analytic Philosophy'"
+    ],
+    "key_quotes": [
+      "\"All debates about the world’s structure must be—in principle—verifiable.\"",
+      "\"Philosophical statements must be translatable into logical syntax.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Rudolf_Carnap",
+      "https://plato.stanford.edu/entries/carnap/"
+    ]
+  },
+  {
+    "name": "Karl Popper",
+    "lifespan": "28 July 1902 – 17 September 1994",
+    "historical_period": "20th Century Philosophy, Philosophy of Science",
+    "detailed_biography": "Karl Popper was born in Vienna and studied under Moritz Schlick, becoming a critic of historicism and inductivism. In 'The Logic of Scientific Discovery' (1934), he argued that scientific theories cannot be conclusively verified but must be falsifiable. His 'The Open Society and Its Enemies' (1945) defends liberal democracy against totalitarian ideologies, applying critical rationalism to politics.",
+    "key_ideas": [
+      "Falsifiability as demarcation criterion",
+      "Critical rationalism",
+      "Open society"
+    ],
+    "main_works": [
+      "The Logic of Scientific Discovery",
+      "The Open Society and Its Enemies"
+    ],
+    "influence_reception": "Popper influenced philosophy of science, political theory, and critical thinking practices. His falsification principle remains central in scientific methodology.",
+    "secondary_literature": [
+      "Malachi Haim Hacohen, 'Karl Popper: The Formative Years'",
+      "David Miller, 'Popper: A Guide for the Perplexed'"
+    ],
+    "key_quotes": [
+      "\"Science must begin with myths, and with the criticism of myths.\"",
+      "\"All life is problem solving.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Karl_Popper",
+      "https://plato.stanford.edu/entries/popper/"
+    ]
+  },
+  {
+    "name": "Pythagoras",
+    "lifespan": "c. 570 – c. 495 BCE",
+    "historical_period": "Pre-Socratic Philosophy, Mathematics",
+    "detailed_biography": "Pythagoras of Samos founded a philosophical and religious community in Croton (modern Italy) around 530 BCE, where he taught that reality is ultimately mathematical in nature. He is credited with the discovery of the Pythagorean theorem relating the sides of a right triangle, although his school likely developed it collectively. Pythagoras also introduced notions of metempsychosis (soul transmigration) and adherent vegetarianism. His blend of mysticism and rational inquiry influenced Plato and the entire Western mathematical tradition.",
+    "key_ideas": [
+      "Number as principle (arche)",
+      "Harmony of the spheres",
+      "Metempsychosis"
+    ],
+    "main_works": [
+      "No writings survive; doctrines known through later sources (e.g., Philolaus, Porphyry)"
+    ],
+    "influence_reception": "Pythagorean ideas shaped Plato’s theory of forms and later Neoplatonism. His mathematical insights underpin Euclidean geometry and Western numerology.",
+    "secondary_literature": [
+      "Carl Huffman, 'Pythagoras and the Pythagoreans: A Brief History'",
+      "E. J. Dijksterhuis, 'The Mechanization of the World Picture' (on Pythagorean influence)"
+    ],
+    "key_quotes": [
+      "\"All is number.\" (Attributed)",
+      "\"At first the silence, then the song.\" (Franz Liszt’s homage)"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/pythagoras/",
+      "https://en.wikipedia.org/wiki/Pythagoras"
+    ]
+  },
+  {
+    "name": "Konfuzius",
+    "lifespan": "551 – 479 BCE",
+    "historical_period": "Ancient Chinese Philosophy",
+    "detailed_biography": "Confucius (Kongzi) was born in the state of Lu and served as a minor official before becoming a teacher whose conversations were recorded in the Analects. He advocated the cultivation of virtue (ren), filial piety (xiao), and proper conduct (li) in social and political life. Confucius emphasized moral example over coercive law, believing rulers should govern by virtue. His ethical and political teachings became the foundation of Confucianism, shaping East Asian societies for over two millennia.",
+    "key_ideas": [
+      "Ren (humaneness)",
+      "Li (ritual/propriety)",
+      "Junzi (gentleman)"
+    ],
+    "main_works": [
+      "The Analects (Lunyu)"
+    ],
+    "influence_reception": "Confucianism became state orthodoxy in imperial China, influencing education, governance, and social norms across East Asia.",
+    "secondary_literature": [
+      "Herbert Fingarette, 'Confucius: The Secular as Sacred'",
+      "Roger T. Ames & Henry Rosemont Jr., 'The Analects of Confucius: A Philosophical Translation'"
+    ],
+    "key_quotes": [
+      "\"Do not do to others what you do not want done to yourself.\"",
+      "\"Is it not a pleasure, having learned something, to try it out at due intervals?\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/confucius/",
+      "https://en.wikipedia.org/wiki/Confucius"
+    ]
+  },
+  {
+    "name": "Heraklit",
+    "lifespan": "c. 535 – c. 475 BCE",
+    "historical_period": "Pre-Socratic Philosophy",
+    "detailed_biography": "Heraclitus of Ephesus taught that permanence is an illusion and that reality is a constant process of change ('panta rhei'). He held that fire is the fundamental element and introduced the doctrine of the Logos, an underlying rational principle. His aphoristic fragments emphasize the unity of opposites and the necessity of strife for harmony. Though only fragments survive, his thought deeply influenced Stoicism and later dialectical philosophies.",
+    "key_ideas": [
+      "Flux as reality",
+      "Unity of opposites",
+      "Logos"
+    ],
+    "main_works": [
+      "Fragments collected in later testimonia"
+    ],
+    "influence_reception": "Heraclitus shaped Stoic and dialectical traditions, and his notion of process resonates in modern process philosophy.",
+    "secondary_literature": [
+      "Charles H. Kahn, 'The Art and Thought of Heraclitus'",
+      "P. T. Geach & M. Black (eds.), 'Philosophical Analysis: New Essays in the Philosophy of Language'"
+    ],
+    "key_quotes": [
+      "\"No man ever steps in the same river twice.\"",
+      "\"War is the father of all and king of all.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/heraclitus/",
+      "https://en.wikipedia.org/wiki/Heraclitus"
+    ]
+  },
+  {
+    "name": "Parmenides",
+    "lifespan": "c. 515 – c. 450 BCE",
+    "historical_period": "Pre-Socratic Philosophy",
+    "detailed_biography": "Parmenides of Elea argued for the unchanging, eternal nature of Being in his poem 'On Nature'. He distinguishes the way of truth (alētheia), where Being is one, ungenerated, and imperishable, from the way of opinion (doxa), which misleads with belief in change and plurality. His strict ontology laid groundwork for metaphysics and influenced Plato’s theory of forms.",
+    "key_ideas": [
+      "Being as one and unchanging",
+      "Critique of change",
+      "Way of truth vs. way of opinion"
+    ],
+    "main_works": [
+      "'On Nature' (only fragments survive)"
+    ],
+    "influence_reception": "Parmenides is foundational for ontology; Plato and Neoplatonists developed his ideas extensively.",
+    "secondary_literature": [
+      "Alexander P.D. Mourelatos, 'The Route of Parmenides'",
+      "John Palmer, 'Parmenides and Presocratic Philosophy: Essays in Honour of Alexander Mourelatos'"
+    ],
+    "key_quotes": [
+      "\"Being is, and non-being is not.\"",
+      "\"It is necessary to think and to say that being is; for it is possible that being is, and not possible that non-being is.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/parmenides/",
+      "https://en.wikipedia.org/wiki/Parmenides"
+    ]
+  },
+  {
+    "name": "Zenon von Elea",
+    "lifespan": "c. 490 – c. 430 BCE",
+    "historical_period": "Pre-Socratic Philosophy",
+    "detailed_biography": "Zeno of Elea, a student of Parmenides, is famous for paradoxes (e.g., Achilles and the tortoise) designed to support Parmenides’ view that change and plurality are illusory. His arguments challenge notions of motion and division, prompting later developments in mathematics (infinite series) and logic.",
+    "key_ideas": [
+      "Paradoxes of motion",
+      "Defense of Parmenidean monism"
+    ],
+    "main_works": [
+      "Paradoxes (fragments and reports)"
+    ],
+    "influence_reception": "Zeno’s paradoxes spurred advancements in calculus, mathematical rigor, and philosophical analysis of infinity.",
+    "secondary_literature": [
+      "W.K.C. Guthrie, 'A History of Greek Philosophy: The Presocratic Tradition'",
+      "Joseph Heath & David P. O'Brien, 'Paradoxes'"
+    ],
+    "key_quotes": [
+      "\"It is impossible to traverse an infinite number of things in a finite time.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/zeno-elea/",
+      "https://en.wikipedia.org/wiki/Zeno_of_Elea"
+    ]
+  },
+  {
+    "name": "Sokrates",
+    "lifespan": "c. 470 – 399 BCE",
+    "historical_period": "Classical Greek Philosophy",
+    "detailed_biography": "Socrates of Athens is known primarily through the dialogues of his student Plato. He pioneered the dialectical method, engaging citizens in questioning assumed truths to reveal deeper understanding. Socrates left no writings; his ideas survive in descriptions by Plato and Xenophon. He emphasized ethical inquiry, famously asserting that 'the unexamined life is not worth living.' Condemned by Athenian democracy for impiety and corrupting youth, he died by drinking hemlock.",
+    "key_ideas": [
+      "Socratic method",
+      "Ethical intellectualism",
+      "Irony"
+    ],
+    "main_works": [
+      "No writings by Socrates; depicted in Plato's dialogues"
+    ],
+    "influence_reception": "Socrates laid the groundwork for Western ethics and epistemology. His method influenced Platonic and Aristotelian traditions and modern pedagogy.",
+    "secondary_literature": [
+      "W.K.C. Guthrie, 'A History of Greek Philosophy, Volume 3: The Sixth-Century Revolution'",
+      "Robin Waterfield, 'Why Socrates Died: Dispelling the Myths'"
+    ],
+    "key_quotes": [
+      "\"Know thyself.\"",
+      "\"The only true wisdom is in knowing you know nothing.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/socrates/",
+      "https://en.wikipedia.org/wiki/Socrates"
+    ]
+  },
+  {
+    "name": "Demokrit",
+    "lifespan": "c. 460 – c. 370 BCE",
+    "historical_period": "Pre-Socratic Philosophy",
+    "detailed_biography": "Democritus of Abdera is best known for formulating an atomic theory of the universe. He proposed that everything consists of indivisible atoms moving in the void, anticipating modern atomic physics. Democritus wrote extensively, but his works survive only in fragments and reports by later authors. He combined materialist views with ethics, advocating cheerfulness and moderation. Often called 'the Laughing Philosopher,' he emphasized the value of a contented life.",
+    "key_ideas": [
+      "Atomism",
+      "Void",
+      "Ethical cheerfulness"
+    ],
+    "main_works": [
+      "Unknown; fragments in Diogenes Laertius"
+    ],
+    "influence_reception": "Democritus influenced Epicureanism and Renaissance science. His atomic theory prefigures modern chemistry and physics.",
+    "secondary_literature": [
+      "C.C.W. Taylor, 'The Atomists: Leucippus and Democritus'",
+      "John M. Dillon, 'The Heirs of Socrates'"
+    ],
+    "key_quotes": [
+      "\"By convention sweet, by convention bitter, by convention hot, by convention cold, by convention color: but in reality atoms and the void.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/democritus/",
+      "https://en.wikipedia.org/wiki/Democritus"
+    ]
+  },
+  {
+    "name": "Platon",
+    "lifespan": "c. 427 – c. 347 BCE",
+    "historical_period": "Classical Greek Philosophy",
+    "detailed_biography": "Plato of Athens was a student of Socrates and tutor to Aristotle. He founded the Academy, one of the first institutions of higher learning in the Western world. In works like 'The Republic,' he explores justice, the theory of forms, and the philosopher-king concept. Plato’s dialogues blend literary artistry with philosophical inquiry, covering ethics, politics, metaphysics, and epistemology. His theory of forms posits a realm of perfect, unchanging archetypes beyond sensory experience.",
+    "key_ideas": [
+      "Theory of forms",
+      "Platonic realism",
+      "Philosopher-king"
+    ],
+    "main_works": [
+      "The Republic",
+      "Phaedo",
+      "Symposium"
+    ],
+    "influence_reception": "Plato shaped Western philosophy, influencing Neoplatonism, Christian theology, and modern idealism. His Academy lasted until 529 CE.",
+    "secondary_literature": [
+      "Julia Annas, 'An Introduction to Plato's Republic'",
+      "Christopher Rowe, 'Plato and the Art of Philosophical Writing'"
+    ],
+    "key_quotes": [
+      "\"At the touch of love everyone becomes a poet.\"",
+      "\"Necessity is the mother of invention.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/plato/",
+      "https://en.wikipedia.org/wiki/Plato"
+    ]
+  },
+  {
+    "name": "Aristoteles",
+    "lifespan": "384 – 322 BCE",
+    "historical_period": "Classical Greek Philosophy",
+    "detailed_biography": "Aristotle of Stagira was a student of Plato and tutor to Alexander the Great. He wrote on logic, metaphysics, ethics, politics, and natural sciences, systematizing formal logic in the 'Organon'. In 'Nicomachean Ethics,' he articulates virtue ethics based on the golden mean. Aristotle’s teleological view sees purpose in nature and human flourishing (eudaimonia) as life’s goal. His works formed the basis of medieval scholasticism and Renaissance science.",
+    "key_ideas": [
+      "Four causes",
+      "Virtue ethics",
+      "Teleology"
+    ],
+    "main_works": [
+      "Nicomachean Ethics",
+      "Politics",
+      "Metaphysics"
+    ],
+    "influence_reception": "Aristotle profoundly influenced Islamic and Christian medieval philosophy. His methodologies underlie logic, biology, and ethics.",
+    "secondary_literature": [
+      "Jonathan Barnes, 'Aristotle'",
+      "Richard Kraut, 'Aristotle on the Human Good'"
+    ],
+    "key_quotes": [
+      "\"Man is by nature a social animal.\"",
+      "\"The energy of the mind is the essence of life.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/aristotle/",
+      "https://en.wikipedia.org/wiki/Aristotle"
+    ]
+  },
+  {
+    "name": "Mencius",
+    "lifespan": "c. 372 – c. 289 BCE",
+    "historical_period": "Ancient Chinese Philosophy, Confucianism",
+    "detailed_biography": "Mencius (Mengzi) was a major Confucian thinker who elaborated on Confucius’s ideas. He taught that human nature is fundamentally good, with innate tendencies toward compassion and righteousness. In the 'Mencius,' he discusses moral cultivation, the role of the ruler, and the Mandate of Heaven. Mencius’s advocacy for benevolent governance influenced imperial examination and statecraft. His dialogues preserve debates on ethics, politics, and human nature.",
+    "key_ideas": [
+      "Innate human goodness",
+      "Four beginnings of virtue",
+      "Mandate of Heaven"
+    ],
+    "main_works": [
+      "Mencius (Mengzi)"
+    ],
+    "influence_reception": "Mencius became the central authority of Confucian orthodoxy in the Han dynasty and remains influential in East Asian moral philosophy.",
+    "secondary_literature": [
+      "Philip J. Ivanhoe & Bryan W. Van Norden (eds.), 'Readings in Classical Chinese Philosophy'",
+      "John Knoblock, 'Xunzi: A Translation and Study of the Complete Works'"
+    ],
+    "key_quotes": [
+      "\"The great man is he who does not lose his child's-heart.\"",
+      "\"Benevolence brings glory to a nation.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/mencius/",
+      "https://en.wikipedia.org/wiki/Mencius"
+    ]
+  },
+  {
+    "name": "A. J. Ayer",
+    "lifespan": "29 October 1910 – 27 June 1989",
+    "historical_period": "20th Century Philosophy, Logical Positivism",
+    "detailed_biography": "Alfred Jules Ayer, known as A. J. Ayer, popularized logical positivism in the English-speaking world with his book 'Language, Truth and Logic' (1936), where he advocated the verification principle and the elimination of metaphysics. Educated at Eton and Oxford, Ayer engaged with the Vienna Circle in the early 1930s, further refining his empiricist approach. He argued that only statements verifiable through direct experience or analytic reasoning are meaningful, dismissing ethical and theological propositions as literally nonsensical. Ayer’s clear, concise style and public lecturing made his philosophy widely accessible and influential in mid‑20th century Britain.",
+    "key_ideas": [
+      "Verification principle",
+      "Elimination of metaphysics",
+      "Empirical verification"
+    ],
+    "main_works": [
+      "Language, Truth and Logic",
+      "The Problem of Knowledge"
+    ],
+    "influence_reception": "Ayer’s work shaped analytic philosophy, particularly philosophy of language and ethics, prompting debates on the meaningfulness of non‑empirical claims.",
+    "secondary_literature": [
+      "Frederick F. Burnyeat, 'A. J. Ayer: A Life'",
+      "Peter Hylton, 'A. J. Ayer: Philosophy in the Twentieth Century'"
+    ],
+    "key_quotes": [
+      "\"A statement is meaningful if and only if it is either analytic or empirically verifiable.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/ayer/ (turn0search0)",
+      "https://en.wikipedia.org/wiki/A._J._Ayer (turn0search15)"
+    ]
+  },
+  {
+    "name": "Wilfrid Sellars",
+    "lifespan": "20 May 1912 – 2 July 1989",
+    "historical_period": "20th Century Philosophy, Analytic Philosophy",
+    "detailed_biography": "Wilfrid Stalker Sellars was an American philosopher who transformed analytic philosophy by integrating scientific realism with a critique of empiricism. In 'Empiricism and the Philosophy of Mind' (1956), he challenged the 'myth of the given,' arguing that sensory experiences are theory-laden. Sellars’s distinction between the manifest and scientific images of the world offered a framework for reconciling common-sense and scientific perspectives. His work laid the groundwork for later developments in philosophy of mind, language, and epistemology.",
+    "key_ideas": [
+      "Myth of the given",
+      "Manifest vs. scientific image"
+    ],
+    "main_works": [
+      "Empiricism and the Philosophy of Mind",
+      "Science, Perception and Reality"
+    ],
+    "influence_reception": "Sellars greatly influenced contemporary debates in philosophy of mind and epistemology, shaping thinkers like John McDowell and Robert Brandom.",
+    "secondary_literature": [
+      "John McDowell, 'Having the World in View: Sellars, Empiricism, and Ontology'",
+      "Robert Brandom, 'Reasons and Persons'"
+    ],
+    "key_quotes": [
+      "\"The given is dead; long live the given.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/sellars/ (turn0search1)",
+      "https://en.wikipedia.org/wiki/Wilfrid_Sellars (turn0search6)"
+    ]
+  },
+  {
+    "name": "John Rawls",
+    "lifespan": "21 February 1921 – 24 November 2002",
+    "historical_period": "20th Century Philosophy, Political Philosophy",
+    "detailed_biography": "John Rawls was an American philosopher best known for 'A Theory of Justice' (1971), where he proposed the original position and veil of ignorance as devices for determining principles of justice. Rawls argued that social and economic inequalities are justified only if they benefit the least advantaged (difference principle). His concept of justice as fairness reconciled liberty and equality in a liberal democratic framework. Rawls’s ideas have profoundly influenced political philosophy, ethics, and public policy.",
+    "key_ideas": [
+      "Original position",
+      "Veil of ignorance",
+      "Difference principle"
+    ],
+    "main_works": [
+      "A Theory of Justice",
+      "Political Liberalism"
+    ],
+    "influence_reception": "Rawls’s work revived normative political philosophy and sparked debates on distributive justice, influencing scholars and policymakers worldwide.",
+    "secondary_literature": [
+      "Thomas Pogge, 'John Rawls: His Life and Theory of Justice'",
+      "Samuel Freeman, 'Rawls'"
+    ],
+    "key_quotes": [
+      "\"Justice is the first virtue of social institutions.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/rawls/ (turn0search2)",
+      "https://plato.stanford.edu/entries/original-position/ (turn0search7)"
+    ]
+  },
+  {
+    "name": "Thomas Kuhn",
+    "lifespan": "18 July 1922 – 17 June 1996",
+    "historical_period": "20th Century Philosophy, Philosophy of Science",
+    "detailed_biography": "Thomas Samuel Kuhn was an American philosopher of science whose book 'The Structure of Scientific Revolutions' (1962) introduced the concept of paradigm shifts, arguing that science undergoes periodic revolutionary changes rather than linear progression. He distinguished between 'normal science' (puzzle-solving within a paradigm) and 'revolutionary science' (paradigm change). Kuhn’s work challenged the cumulative view of scientific progress and introduced incommensurability of competing paradigms. His ideas influenced philosophy of science, sociology of knowledge, and science studies.",
+    "key_ideas": [
+      "Paradigm shift",
+      "Normal vs. revolutionary science",
+      "Incommensurability"
+    ],
+    "main_works": [
+      "The Structure of Scientific Revolutions",
+      "The Essential Tension"
+    ],
+    "influence_reception": "Kuhn’s analysis reshaped views on scientific methodology and influenced interdisciplinary studies of knowledge and culture.",
+    "secondary_literature": [
+      "Ian Hacking, 'The Social Construction of What?'",
+      "M. J. Gorman, 'The Structure of Scientific Revolutions (Routledge Philosophy Guidebook)'"
+    ],
+    "key_quotes": [
+      "\"Scientific revolutions are inaugurated by a growing sense...that an existing paradigm has ceased to function adequately.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/thomas-kuhn/ (turn0search3)",
+      "https://plato.stanford.edu/entries/scientific-revolutions/ (turn0search8)"
+    ]
+  },
+  {
+    "name": "Michel Foucault",
+    "lifespan": "15 October 1926 – 25 June 1984",
+    "historical_period": "20th Century Philosophy, Post-Structuralism",
+    "detailed_biography": "Michel Foucault was a French philosopher and historian who analyzed the relationship between power and knowledge in works like 'Discipline and Punish' (1975) and 'The History of Sexuality' (1976). He introduced concepts such as biopower, governmentality, and discursive formations. Foucault’s archaeological and genealogical methods trace how discourses shape subjectivity and social practices. His critique of modern institutions and norms has influenced critical theory, cultural studies, and social sciences.",
+    "key_ideas": [
+      "Power/knowledge",
+      "Biopower",
+      "Discursive formations"
+    ],
+    "main_works": [
+      "Discipline and Punish",
+      "The History of Sexuality"
+    ],
+    "influence_reception": "Foucault’s theories have shaped post-structuralism, feminist theory, and contemporary critiques of modernity and governance.",
+    "secondary_literature": [
+      "Graham Burchell, 'The Foucault Effect'",
+      "Paul Rabinow, 'The Foucault Reader'"
+    ],
+    "key_quotes": [
+      "\"Where there is power, there is resistance.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/foucault/ (turn0search4)",
+      "https://en.wikipedia.org/wiki/Michel_Foucault (turn0search24)"
+    ]
+  },
+  {
+    "name": "Noam Chomsky",
+    "lifespan": "7 December 1928 – present",
+    "historical_period": "20th–21st Century Philosophy, Linguistics",
+    "detailed_biography": "Noam Chomsky was born on 7 December 1928 in Philadelphia to Jewish immigrant parents from Eastern Europe. He began his academic career at the University of Pennsylvania, where he studied linguistics before moving to MIT in 1955, becoming a pioneering professor of linguistics there. Chomsky’s 'Syntactic Structures' (1957) revolutionized the study of language by introducing generative grammar and the concept of universal grammar, arguing that innate structures underlie all human languages. Beyond linguistics, Chomsky has been an outspoken political activist and critic of US foreign policy, authoring dozens of works on politics, media, and power. He remains one of the most cited scholars in modern history, influencing cognitive science, philosophy of language, and political theory.",
+    "key_ideas": [
+      "Universal grammar",
+      "Generative grammar",
+      "Chomsky hierarchy",
+      "Manufacturing consent"
+    ],
+    "main_works": [
+      "Syntactic Structures",
+      "Aspects of the Theory of Syntax",
+      "Manufacturing Consent"
+    ],
+    "influence_reception": "Chomsky’s theories laid the foundation for modern linguistics and cognitive science, challenging behaviorist models and reshaping philosophy of language.",
+    "secondary_literature": [
+      "Lyle F. Bachman, 'Noam Chomsky'",
+      "Davidson & Brown (eds.), 'Critical Perspectives on Noam Chomsky'"
+    ],
+    "key_quotes": [
+      "\"Colorless green ideas sleep furiously.\"",
+      "\"If we don’t believe in free expression for people we despise, we don’t believe in it at all.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Noam_Chomsky (turn0search0)",
+      "https://www.biography.com/scholars-educators/noam-chomsky (turn0search10)"
+    ]
+  },
+  {
+    "name": "Jürgen Habermas",
+    "lifespan": "18 June 1929 – present",
+    "historical_period": "20th–21st Century Philosophy, Critical Theory",
+    "detailed_biography": "Jürgen Habermas was born on 18 June 1929 in Düsseldorf and grew up during the rise and fall of Nazi Germany, experiences that profoundly shaped his thought. After studying philosophy and sociology in Bonn and Marburg, he earned his doctorate in 1954 and habilitated at the University of Marburg in 1964. His 'Theory of Communicative Action' (1981) develops a theory of rationality based on ideal speech situations where participants reach understanding free of domination. Habermas’s concept of the public sphere analyzes how media and civil society foster open debate, influencing political philosophy and sociology.He remains a central figure in contemporary debates on democracy, ethics, and deliberative processes.",
+    "key_ideas": [
+      "Communicative rationality",
+      "Public sphere",
+      "Discourse ethics"
+    ],
+    "main_works": [
+      "The Structural Transformation of the Public Sphere",
+      "Theory of Communicative Action"
+    ],
+    "influence_reception": "Habermas’s work has shaped contemporary democratic theory, influencing studies of media, politics, and law.",
+    "secondary_literature": [
+      "Craig Calhoun (ed.), 'Habermas and the Public Sphere'",
+      "Anthony Gutmann, 'Truth and Liberation: A Critical Introduction to the Philosophy of Jürgen Habermas'"
+    ],
+    "key_quotes": [
+      "\"Democracy is more than a procedure of government; it is a way of life.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/habermas/ (turn0search1)",
+      "https://en.wikipedia.org/wiki/J%C3%BCrgen_Habermas (turn0search16)"
+    ]
+  },
+  {
+    "name": "Bernard Williams",
+    "lifespan": "21 September 1929 – 10 June 2003",
+    "historical_period": "20th Century Philosophy, Ethics",
+    "detailed_biography": "Bernard Arthur Owen Williams was born on 21 September 1929 in Westcliff, Essex, England, and educated at Oxford University. He held professorships at Oxford and Cambridge before serving at UC Berkeley and NYU, producing influential work on moral philosophy and the history of philosophy. In 'Ethics and the Limits of Philosophy' (1985), Williams critiques systematic moral theories, emphasizing moral luck and the complexity of moral experience. He argued for a more historically and psychologically informed ethics, resisting abstract normative systems.Williams was knighted in 1999 for his contributions to philosophy.",
+    "key_ideas": [
+      "Moral luck",
+      "Internal vs. external reasons",
+      "Ethical integrity"
+    ],
+    "main_works": [
+      "Problems of the Self",
+      "Ethics and the Limits of Philosophy"
+    ],
+    "influence_reception": "Williams influenced debates on moral psychology, virtue ethics, and metaethics, challenging realist and constructivist accounts.",
+    "secondary_literature": [
+      "A. I. Melden, 'Bernard Williams'",
+      "R. Barrow, 'Williams' Ethics'"
+    ],
+    "key_quotes": [
+      "\"It’s not what you call love, but how you call it that matters.\""
+    ],
+    "citations": [
+      "https://www.britannica.com/biography/Bernard-Williams (turn0search7)",
+      "https://plato.stanford.edu/entries/williams-moral-luck/ (turn0search12)"
+    ]
+  },
+  {
+    "name": "Jacques Derrida",
+    "lifespan": "15 July 1930 – 9 October 2004",
+    "historical_period": "20th Century Philosophy, Deconstruction",
+    "detailed_biography": "Jacques Derrida was born on 15 July 1930 in El Biar, Algeria, and educated at the École Normale Supérieure in Paris. He introduced deconstruction with works like 'Of Grammatology' (1967), analyzing how texts undermine their own claims to stable meaning. Derrida’s later writings explored ethics, hospitality, and the concept of trace, emphasizing the instability of language and presence. His rigorous but provocative style influenced literary theory, philosophy, and cultural studies.Derrida’s legacy continues in diverse fields examining power, identity, and interpretation.",
+    "key_ideas": [
+      "Deconstruction",
+      "Différance",
+      "Trace"
+    ],
+    "main_works": [
+      "Of Grammatology",
+      "Writing and Difference"
+    ],
+    "influence_reception": "Derrida shaped post-structuralism and critical theory, impacting philosophy, literature, and law.",
+    "secondary_literature": [
+      "Ian Maclean, 'Derrida: A Critical Reader'",
+      "Julia Kristeva (ed.), 'Revolution in Poetic Language'"
+    ],
+    "key_quotes": [
+      "\"There is nothing outside the text.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Jacques_Derrida (turn0search3)",
+      "https://plato.stanford.edu/entries/derrida/ (turn0search8)"
+    ]
+  },
+  {
+    "name": "Richard Rorty",
+    "lifespan": "4 October 1931 – 8 June 2007",
+    "historical_period": "20th Century Philosophy, Pragmatism",
+    "detailed_biography": "Richard McKay Rorty was born on 4 October 1931 in New York City and educated at the University of Chicago and Yale University. In 'Philosophy and the Mirror of Nature' (1979), he critiqued the representationalist conception of knowledge, arguing for a pragmatist understanding of truth as usefulness. Rorty later embraced a 'liberal ironist' stance, combining political liberalism with an anti-foundationalist epistemology in works like 'Contingency, Irony, and Solidarity' (1989). He challenged traditional boundaries between philosophy and literature, advocating for a more literary approach to philosophical discourse.Rorty’s work influenced pragmatism, continental philosophy, and political theory.",
+    "key_ideas": [
+      "Anti-representationalism",
+      "Contingency of language",
+      "Liberal ironist"
+    ],
+    "main_works": [
+      "Philosophy and the Mirror of Nature",
+      "Contingency, Irony, and Solidarity"
+    ],
+    "influence_reception": "Rorty shaped contemporary pragmatism and cultural criticism, fostering dialogues between analytic and continental traditions.",
+    "secondary_literature": [
+      "Richard Rorty: Critical Dialogues by W. J. Richardson",
+      "Rein Raudla, 'Rorty’s Relevance: Reassessing Postmodernism and Pragmatism'"
+    ],
+    "key_quotes": [
+      "\"Truth is what your peers let you get away with.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Richard_Rorty (turn0search14)",
+      "https://plato.stanford.edu/entries/rorty/ (turn0search4)"
+    ]
+  },
+  {
+    "name": "Robert Nozick",
+    "lifespan": "16 November 1938 – 23 January 2002",
+    "historical_period": "20th Century Philosophy, Political Philosophy",
+    "detailed_biography": "Robert Nozick was born in Brooklyn, New York, on 16 November 1938 and held the Joseph Pellegrino University Professorship at Harvard University. His seminal work, 'Anarchy, State, and Utopia' (1974), presents a libertarian defense of a minimal state and critiques patterned theories of justice. Nozick also contributed to epistemology and the theory of personal identity, exploring 'entitlement theory' in property rights and the 'experience machine' thought experiment. He served as president of the American Philosophical Association and was knighted with the National Book Award for Political Science.",
+    "key_ideas": [
+      "Entitlement theory",
+      "Minimal state",
+      "Experience machine"
+    ],
+    "main_works": [
+      "Anarchy, State, and Utopia",
+      "Philosophical Explanations",
+      "The Nature of Rationality"
+    ],
+    "influence_reception": "Nozick’s libertarianism sparked revival in analytic political philosophy, influencing debates on rights, state legitimacy, and theories of justice.",
+    "secondary_literature": [
+      "G. A. Cohen, 'Self-Ownership, Freedom, and Equality'",
+      "Jonathan Wolff, 'Robert Nozick: Property, Justice, and the Minimal State'"
+    ],
+    "key_quotes": [
+      "\"Individuals have rights, and there are things no person or group may do to them without violating those rights.\""
+    ],
+    "citations": [
+      "https://en.wikipedia.org/wiki/Robert_Nozick",
+      "https://plato.stanford.edu/entries/nozick-political/"
+    ]
+  },
+  {
+    "name": "Saul Kripke",
+    "lifespan": "13 November 1940 – 15 September 2022",
+    "historical_period": "20th–21st Century Philosophy, Analytic Philosophy",
+    "detailed_biography": "Saul Kripke was born on 13 November 1940 and became Distinguished Professor at CUNY Graduate Center. His early work introduced the concept of rigid designators, arguing that names refer to the same object across all possible worlds, and demonstrating that identity statements can be necessarily true yet knowable only a posteriori. He also offered a novel sceptical solution to rule-following in his interpretation of Wittgenstein, known as the 'Kripkenstein' controversy. Kripke’s contributions reshaped philosophy of language, logic, and metaphysics until his death on 15 September 2022.",
+    "key_ideas": [
+      "Rigid designators",
+      "Modal logic",
+      "Kripkenstein"
+    ],
+    "main_works": [
+      "Naming and Necessity",
+      "Wittgenstein on Rules and Private Language"
+    ],
+    "influence_reception": "Kripke’s theories revolutionized analytic philosophy, impacting subsequent work on reference, necessity, and semantics.",
+    "secondary_literature": [
+      "Scott Soames, 'Reference and Description in Philosophy of Language'",
+      "John Heil & Pascal Engel, 'Kripke on Reference'"
+    ],
+    "key_quotes": [
+      "\"Whereof one cannot speak, thereof one must be silent.\" (on the limits of language)"
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/rigid-designators/",
+      "https://en.wikipedia.org/wiki/Saul_Kripke"
+    ]
+  },
+  {
+    "name": "David Lewis",
+    "lifespan": "28 September 1941 – 14 October 2001",
+    "historical_period": "20th Century Philosophy, Analytic Philosophy",
+    "detailed_biography": "David Lewis was born on 28 September 1941 and taught at Princeton University, where he became the Stuart Professor of Philosophy. He is renowned for his modal realism, the view that possible worlds are as real as the actual world, detailed in 'On the Plurality of Worlds' (1986). Lewis made foundational contributions to counterfactuals, theory of conventions, and the analysis of causation and mental representation. His prolific work across metaphysics, philosophy of language, and mind continues to be central to analytic philosophy.",
+    "key_ideas": [
+      "Modal realism",
+      "Counterfactuals",
+      "Conventions"
+    ],
+    "main_works": [
+      "On the Plurality of Worlds",
+      "Counterfactuals"
+    ],
+    "influence_reception": "Lewis’s rigorous style and expansive theories influence contemporary work in metaphysics, semantics, and philosophy of mind.",
+    "secondary_literature": [
+      "Kit Fine, 'Lewisian Themes: The Philosophy of David K. Lewis'",
+      "L.A. Paul, 'David Lewis'"
+    ],
+    "key_quotes": [
+      "\"Possible worlds inhabit space-time just as we do.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/david-lewis/",
+      "https://plato.stanford.edu/entries/lewis-metaphysics/"
+    ]
+  },
+  {
+    "name": "Peter Singer",
+    "lifespan": "6 July 1946 – present",
+    "historical_period": "20th–21st Century Philosophy, Ethics",
+    "detailed_biography": "Peter Singer was born on 6 July 1946 in Melbourne, Australia, and is Ira W. DeCamp Professor of Bioethics at Princeton University. His 1975 essay 'Famine, Affluence, and Morality' argues that affluent individuals have a moral obligation to assist those suffering from poverty. In 'Animal Liberation' (1975), he applies utilitarian principles to advocate for animal rights, pioneering the modern animal welfare movement. Singer’s work spans global justice, effective altruism, and bioethics, influencing public policy and international ethics.",
+    "key_ideas": [
+      "Effective altruism",
+      "Animal liberation",
+      "Famine ethics"
+    ],
+    "main_works": [
+      "Animal Liberation",
+      "Practical Ethics"
+    ],
+    "influence_reception": "Singer’s utilitarian ethics reshaped discussions on poverty, animal rights, and global responsibility, inspiring movements in philanthropy and activism.",
+    "secondary_literature": [
+      "Christopher Grau, 'The Ethics of Peter Singer'",
+      "Kathleen Dean Moore, 'The Mouse That Roared and Other Philosophical Reflections on Ethics and Animals'"
+    ],
+    "key_quotes": [
+      "\"The question is not, Can they reason?, nor, Can they talk? but, Can they suffer?\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/moral-animal/",
+      "https://en.wikipedia.org/wiki/Peter_Singer"
+    ]
+  },
+  {
+    "name": "Derek Parfit",
+    "lifespan": "11 December 1942 – 1 January 2017",
+    "historical_period": "20th–21st Century Philosophy, Ethics",
+    "detailed_biography": "Derek Parfit was born on 11 December 1942 in Chengdu, China, and was a fellow at All Souls College, Oxford. His book 'Reasons and Persons' (1984) challenges the notion that personal identity matters for survival and develops the psychological continuity theory. Parfit introduced the 'nonidentity problem' and argued for impersonal ethics grounded in the welfare of future people. His later work 'On What Matters' (2011) seeks to reconcile Kantianism, rule consequentialism, and contractualism.",
+    "key_ideas": [
+      "Reductionism",
+      "Nonidentity problem",
+      "Impersonal ethics"
+    ],
+    "main_works": [
+      "Reasons and Persons",
+      "On What Matters"
+    ],
+    "influence_reception": "Parfit’s work transformed ethical theory and debates on personal identity, influencing philosophers across analytic ethics.",
+    "secondary_literature": [
+      "Jeffrey Overton, 'Parfit: A Philosopher and His Mission'",
+      "David Sobel, 'Giving Reasons: Essays in Honor of Derek Parfit'"
+    ],
+    "key_quotes": [
+      "\"Personal identity is not what matters in survival.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/identity-ethics/",
+      "https://en.wikipedia.org/wiki/Derek_Parfit"
+    ]
+  },
+  {
+    "name": "Mark Aurel",
+    "lifespan": "121 – 180 CE",
+    "historical_period": "Stoicism, Roman Empire",
+    "detailed_biography": "Marcus Aurelius served as Roman Emperor from 161 to 180 CE and was the last of the 'Five Good Emperors'. His work 'Meditations', written in Greek during his military campaigns, reflects Stoic philosophy focused on self-discipline, virtue, and rationality. He emphasized the unity of the cosmos and the importance of duty, resilience, and acceptance of fate.",
+    "key_ideas": [
+      "Inner citadel",
+      "Universal reason (Logos)",
+      "Stoic virtue"
+    ],
+    "main_works": [
+      "Meditations"
+    ],
+    "influence_reception": "Meditations became a foundational Stoic text, influencing later Christian thought and modern self-help.",
+    "secondary_literature": [
+      "Pierre Hadot, 'Meditations as Spiritual Exercise'",
+      "Anthony R. Birley, 'Marcus Aurelius: A Biography'"
+    ],
+    "key_quotes": [
+      "\"You have power over your mind – not outside events. Realize this, and you will find strength.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/marcus-aurelius/",
+      "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+    ]
+  },
+  {
+    "name": "Nagarjuna",
+    "lifespan": "c. 150 – c. 250 CE",
+    "historical_period": "Mahayana Buddhism",
+    "detailed_biography": "Nagarjuna was a central figure in Mahayana Buddhism, founder of the Madhyamaka school. In his 'Mūlamadhyamakakārikā' he developed the doctrine of Śūnyatā (emptiness), showing that all phenomena lack inherent existence. He used reductio ad absurdum to deconstruct essentialist views.",
+    "key_ideas": [
+      "Emptiness (Śūnyatā)",
+      "Two truths doctrine",
+      "Dependent origination"
+    ],
+    "main_works": [
+      "Mūlamadhyamakakārikā"
+    ],
+    "influence_reception": "Nagarjuna’s Madhyamaka influenced Buddhist philosophy across Asia and modern interpretations of emptiness.",
+    "secondary_literature": [
+      "Jay Garfield, 'The Fundamental Wisdom of the Middle Way'",
+      "G. W. Lehman, 'Nagarjuna in Context'"
+    ],
+    "key_quotes": [
+      "\"Nothing exists independently without cause.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/nagarjuna/",
+      "https://en.wikipedia.org/wiki/Nagarjuna"
+    ]
+  },
+  {
+    "name": "Plotin",
+    "lifespan": "c. 204 – 270 CE",
+    "historical_period": "Neoplatonism",
+    "detailed_biography": "Plotinus founded Neoplatonism; his student Porphyry compiled his teachings into the 'Enneads'. He posited a triadic reality of the One, the Intellect, and the Soul, emphasizing the ascent of the soul toward unity with the One through contemplation.",
+    "key_ideas": [
+      "The One",
+      "Emanation",
+      "The soul’s ascent"
+    ],
+    "main_works": [
+      "Enneads"
+    ],
+    "influence_reception": "Plotinus influenced Augustine, Christian mysticism, and Renaissance Platonism.",
+    "secondary_literature": [
+      "A. H. Armstrong, 'Plotinus'",
+      "Porphyry, 'Life of Plotinus'"
+    ],
+    "key_quotes": [
+      "\"Withdraw into yourself and look. And if you do not find yourself beautiful, act as does the creator of a statue that is to be made beautiful.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/plotinus/",
+      "https://en.wikipedia.org/wiki/Plotinus"
+    ]
+  },
+  {
+    "name": "Sextus Empiricus",
+    "lifespan": "c. 160 – c. 210 CE",
+    "historical_period": "Pyrrhonian Skepticism",
+    "detailed_biography": "Sextus Empiricus authored 'Outlines of Pyrrhonism', the main source on ancient Pyrrhonian Skepticism. He presented the ten modes of Aenesidemus and advocated suspension of judgment to achieve tranquility.",
+    "key_ideas": [
+      "Ten modes",
+      "Epoché",
+      "Ataraxia"
+    ],
+    "main_works": [
+      "Outlines of Pyrrhonism"
+    ],
+    "influence_reception": "His works revived skeptical philosophy in the Renaissance and inform modern epistemology.",
+    "secondary_literature": [
+      "Richard Bett, 'Sextus Empiricus and Pyrrhonism'",
+      "J. Annas, 'Modes of Scepticism'"
+    ],
+    "key_quotes": [
+      "\"By living without beliefs, a person is tranquil and free from disturbance.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/sextus-empiricus/",
+      "https://en.wikipedia.org/wiki/Sextus_Empiricus"
+    ]
+  },
+  {
+    "name": "Augustinus von Hippo",
+    "lifespan": "13 November 354 – 28 August 430 CE",
+    "historical_period": "Early Christian Philosophy, Patristics",
+    "detailed_biography": "Augustine was Bishop of Hippo and author of 'Confessions' and 'The City of God'. He integrated Platonic thought with Christian doctrine, developing theories of original sin, grace, and the nature of the church.",
+    "key_ideas": [
+      "Original sin",
+      "Divine grace",
+      "City of God vs. City of Man"
+    ],
+    "main_works": [
+      "Confessions",
+      "The City of God"
+    ],
+    "influence_reception": "Augustine shaped medieval theology, influencing Augustine, Aquinas, and Protestant Reformers.",
+    "secondary_literature": [
+      "Robert Dodaro, 'Christ and the Just Society in the Thought of Augustine'",
+      "James Wetzel, 'Augustine: A Guide for the Perplexed'"
+    ],
+    "key_quotes": [
+      "\"You have made us for yourself, O Lord, and our heart is restless until it rests in you.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/augustine/",
+      "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
+    ]
+  },
+  {
+    "name": "Hypatia",
+    "lifespan": "c. 360 – 415 CE",
+    "historical_period": "Late Antiquity, Neoplatonism",
+    "detailed_biography": "Hypatia was a mathematician and philosopher in Alexandria, head of the Neoplatonic school. She wrote commentaries on Diophantus and Plato, and taught philosophy and astronomy.",
+    "key_ideas": [
+      "Mathematical Neoplatonism",
+      "Scientific inquiry"
+    ],
+    "main_works": [
+      "Commentaries on Diophantus and Apollonius (lost)"
+    ],
+    "influence_reception": "Hypatia became a symbol of learning and martyrdom, influencing later views on women's role in science.",
+    "secondary_literature": [
+      "Maria Dzielska, 'Hypatia of Alexandria'",
+      "Edward J. Watts, 'Hypatia: Mathematician, Philosopher, Martyr'"
+    ],
+    "key_quotes": [
+      "\"Reserve your right to think, for even to think wrongly is better than not to think at all.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/hypatia/",
+      "https://en.wikipedia.org/wiki/Hypatia"
+    ]
+  },
+  {
+    "name": "Boethius",
+    "lifespan": "c. 477 – 524 CE",
+    "historical_period": "Late Antiquity, Neoplatonism",
+    "detailed_biography": "Anicius Manlius Severinus Boethius authored 'The Consolation of Philosophy' during his imprisonment. He translated and transmitted Aristotle and Plato, influencing medieval scholasticism.",
+    "key_ideas": [
+      "Consolation through philosophy",
+      "Transmission of classical thought"
+    ],
+    "main_works": [
+      "The Consolation of Philosophy"
+    ],
+    "influence_reception": "Boethius’s work was central in medieval education and theology.",
+    "secondary_literature": [
+      "John Chapman, 'Boethius: His Life, Thought, and Influence'",
+      "Norman Kretzmann, 'Boethius'"
+    ],
+    "key_quotes": [
+      "\"Nothing is miserable unless you think it so.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/boethius/",
+      "https://en.wikipedia.org/wiki/Boethius"
+    ]
+  },
+  {
+    "name": "Śaṅkara",
+    "lifespan": "c. 788 – 820 CE",
+    "historical_period": "Advaita Vedanta, Indian Philosophy",
+    "detailed_biography": "Adi Shankara consolidated Advaita Vedanta in his commentaries on the Upanishads, Brahma Sutras, and Bhagavad Gita. He argued for non-dualism, asserting that Brahman is the only reality and the world is Maya (illusion).",
+    "key_ideas": [
+      "Non-dualism (Advaita)",
+      "Maya (illusion)",
+      "Brahman as ultimate reality"
+    ],
+    "main_works": [
+      "Commentaries on Upanishads, Brahma Sutras, Bhagavad Gita"
+    ],
+    "influence_reception": "Shankara’s Advaita Vedanta became a major tradition in Hindu philosophy.",
+    "secondary_literature": [
+      "S. Radhakrishnan, 'The Principal Upanishads'",
+      "Alexus McLeod, 'Shankara and Indian Philosophy'"
+    ],
+    "key_quotes": [
+      "\"Brahman is real, the world is unreal; Brahman is the world.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/advaita-vedanta/",
+      "https://en.wikipedia.org/wiki/Shankaracharya"
+    ]
+  },
+  {
+    "name": "Al-Kindī",
+    "lifespan": "c. 801 – 873 CE",
+    "historical_period": "Islamic Golden Age, Peripatetic Philosophy",
+    "detailed_biography": "Al-Kindi was a philosopher in Baghdad who introduced Greek philosophy to the Islamic world. He wrote on metaphysics, ethics, and psychology, blending Aristotelian and Neoplatonic ideas.",
+    "key_ideas": [
+      "Harmony of religion and philosophy",
+      "Nature of the soul"
+    ],
+    "main_works": [
+      "On First Philosophy",
+      "On the Intellect"
+    ],
+    "influence_reception": "Al-Kindi influenced later Islamic philosophers and the Latin Scholastics.",
+    "secondary_literature": [
+      "Peter Adamson, 'Al-Kindi'",
+      "Andrew D. Speer, 'Early Islamic Philosophy'"
+    ],
+    "key_quotes": [
+      "\"God is the source of all perfection.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/kindi/",
+      "https://en.wikipedia.org/wiki/Al-Kindi"
+    ]
+  },
+  {
+    "name": "Al-Fārābī",
+    "lifespan": "c. 872 – 950 CE",
+    "historical_period": "Islamic Golden Age, Neoplatonism",
+    "detailed_biography": "Al-Farabi was a philosopher and polymath who wrote on political philosophy and logic, earning the title 'Second Teacher' after Aristotle. His 'Virtuous City' outlines an ideal society governed by virtuous rulers.",
+    "key_ideas": [
+      "Virtuous city",
+      "Logical analysis"
+    ],
+    "main_works": [
+      "The Virtuous City",
+      "Book of Letters"
+    ],
+    "influence_reception": "He shaped medieval Islamic and Latin philosophy.",
+    "secondary_literature": [
+      "Muhsin Mahdi (ed.), 'Alfarabi on the Perfect State'",
+      "Richard Walzer, 'Al-Farabi’s Philosophy of Plato and Aristotle'"
+    ],
+    "key_quotes": [
+      "\"The best man is he who benefits others.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/farabi/",
+      "https://en.wikipedia.org/wiki/Al-Farabi"
+    ]
+  },
+  {
+    "name": "Avicenna",
+    "lifespan": "c. 980 – 1037 CE",
+    "historical_period": "Islamic Golden Age, Peripatetic Philosophy",
+    "detailed_biography": "Avicenna, known as Ibn Sina, was born near Bukhara and studied medicine, philosophy, and science. His 'Canon of Medicine' became a standard medical text in Europe and Islam. In 'The Book of Healing', he developed metaphysical theories synthesizing Aristotle and Neoplatonism. Avicenna introduced the distinction between essence and existence and argued for the 'floating man' thought experiment on self-awareness. His works influenced medieval Scholasticism and Renaissance thinkers.",
+    "key_ideas": [
+      "Essence–existence distinction",
+      "Floating man argument",
+      "Proof of God’s existence"
+    ],
+    "main_works": [
+      "The Canon of Medicine",
+      "The Book of Healing"
+    ],
+    "influence_reception": "Avicenna’s philosophy shaped both Islamic and Western medieval thought, influencing Aquinas and subsequent metaphysics.",
+    "secondary_literature": [
+      "Peter Adamson, 'Philosophy in the Islamic World'",
+      "Marmura, M. E., 'Al-Ghazali and Avicenna'"
+    ],
+    "key_quotes": [
+      "\"The heart is the seat of knowledge.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/ibn-sina/",
+      "https://en.wikipedia.org/wiki/Avicenna"
+    ]
+  },
+  {
+    "name": "Rāmānuja",
+    "lifespan": "c. 1017 – 1137 CE",
+    "historical_period": "Medieval Indian Philosophy, Sri Vaishnavism",
+    "detailed_biography": "Rāmānuja was born in Tamil Nadu and became a leading scholar of the Bhagavad Gita and Upanishads. He formulated Vishishtadvaita (qualified non-dualism), positing that the soul is distinct yet inseparable from Brahman. Rāmānuja critiqued Shankara’s Advaita and emphasized devotion (bhakti) alongside knowledge (jnana). His commentary on the Brahma Sutras reconciled philosophical argument with devotional practice.",
+    "key_ideas": [
+      "Qualified non-dualism",
+      "Bhakti as means to liberation",
+      "Soul–Brahman relationship"
+    ],
+    "main_works": [
+      "Sri Bhashya (commentary on Brahma Sutras)"
+    ],
+    "influence_reception": "Rāmānuja’s school influenced South Indian Vaishnavism and modern Hindu thought on devotion.",
+    "secondary_literature": [
+      "John Perry, 'Rāmānuja's Teaching'",
+      "David Buchta, 'Ritual, Temple, and the State'"
+    ],
+    "key_quotes": [
+      "\"He who sees all beings in the Self and the Self in all beings never turns away from it.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/ramanuja/",
+      "https://en.wikipedia.org/wiki/Ramanuja"
+    ]
+  },
+  {
+    "name": "Ibn Gabirol",
+    "lifespan": "c. 1021 – 1058 CE",
+    "historical_period": "Medieval Jewish Philosophy, Neoplatonism",
+    "detailed_biography": "Solomon ibn Gabirol was born in Málaga and wrote poetry and philosophical treatises. His 'Fons Vitae' applies Neoplatonic metaphysics in a Jewish context, exploring emanation and the nature of good. He argued that the universal intellect and soul emanate from a singular divine source.",
+    "key_ideas": [
+      "Emanationism",
+      "Universal intellect",
+      "Good as existence"
+    ],
+    "main_works": [
+      "Fons Vitae"
+    ],
+    "influence_reception": "Ibn Gabirol influenced Christian scholasticism and medieval philosophers like Albertus Magnus.",
+    "secondary_literature": [
+      "Sarah Stroumsa, 'Philosophy and Faith in the Andalusian World'",
+      "Karen Kugel, 'Solomon ibn Gabirol’s Fons Vitae'"
+    ],
+    "key_quotes": [
+      "\"Goodness is the perfection of all things.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/ibn-gabirol/",
+      "https://en.wikipedia.org/wiki/Solomon_ibn_Gabirol"
+    ]
+  },
+  {
+    "name": "Anselm von Canterbury",
+    "lifespan": "c. 1033 – 1109 CE",
+    "historical_period": "Medieval Scholasticism",
+    "detailed_biography": "Anselm was born in Aosta and became Archbishop of Canterbury. In 'Proslogion', he formulated the ontological argument for God’s existence. His 'Cur Deus Homo' explores atonement theory. Anselm emphasized faith seeking understanding (fides quaerens intellectum).",
+    "key_ideas": [
+      "Ontological argument",
+      "Faith seeking understanding",
+      "Atonement theory"
+    ],
+    "main_works": [
+      "Proslogion",
+      "Cur Deus Homo"
+    ],
+    "influence_reception": "Anselm’s arguments shaped Scholastic theology and were debated by Aquinas and Kant.",
+    "secondary_literature": [
+      "Brian Davies, 'Anselm of Canterbury'",
+      "Proslogion Commentary Collection"
+    ],
+    "key_quotes": [
+      "\"I believe in order to understand, and I understand the better to believe.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/anselm/",
+      "https://en.wikipedia.org/wiki/Anselm_of_Canterbury"
+    ]
+  },
+  {
+    "name": "Al-Ghazālī",
+    "lifespan": "1058 – 1111 CE",
+    "historical_period": "Islamic Golden Age, Sufism",
+    "detailed_biography": "Al-Ghazālī was born in Tus and taught at Nizamiyya Madrasa. His 'The Incoherence of the Philosophers' critiques Avicennan philosophy and Aristotelianism. He later embraced Sufism in 'The Revival of Religious Sciences', integrating mysticism with Sharia.",
+    "key_ideas": [
+      "Theological occasionalism",
+      "Critique of philosophy",
+      "Integration of Sufism"
+    ],
+    "main_works": [
+      "Tahafut al-Falasifa",
+      "Ihya Ulum al-Din"
+    ],
+    "influence_reception": "Al-Ghazālī’s work reoriented Islamic philosophy towards theology and influenced Augustine and Aquinas.",
+    "secondary_literature": [
+      "Louay Fatoohi, 'Al-Ghazali: Theologian and Mystic'",
+      "Majid Fakhry, 'Al-Ghazali’s Philosophical Theology'"
+    ],
+    "key_quotes": [
+      "\"Certitude is that which has no room for doubt.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/al-ghazali/",
+      "https://en.wikipedia.org/wiki/Al-Ghazali"
+    ]
+  },
+  {
+    "name": "Peter Abaelard",
+    "lifespan": "1079 – 1142 CE",
+    "historical_period": "Medieval Scholasticism",
+    "detailed_biography": "Peter Abelard was a theologian in Paris known for his logical treatises. In 'Sic et Non', he compiled contradictory authorities to stimulate dialectical reasoning. His love affair with Héloïse and tragic personal life are detailed in their letters.",
+    "key_ideas": [
+      "Dialectical method",
+      "Conceptualism"
+    ],
+    "main_works": [
+      "Sic et Non"
+    ],
+    "influence_reception": "Abelard influenced Scholastic method and logic, ancestral to modern critical inquiry.",
+    "secondary_literature": [
+      "Mary Carruthers, 'The Book of Memory'",
+      "Constant J. Mews, 'Peter Abelard'"
+    ],
+    "key_quotes": [
+      "\"By doubting we come to inquiry; and through inquiry we perceive truth.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/abelard/",
+      "https://en.wikipedia.org/wiki/Peter_Abelard"
+    ]
+  },
+  {
+    "name": "Averroës",
+    "lifespan": "1126 – 1198 CE",
+    "historical_period": "Medieval Islamic Philosophy, Aristotelianism",
+    "detailed_biography": "Ibn Rushd, known as Averroës, was born in Córdoba and wrote extensive commentaries on Aristotle. He defended the use of philosophy against Ash‘ari theology in 'The Incoherence of the Incoherence'.",
+    "key_ideas": [
+      "Double truth",
+      "Aristotelian commentary"
+    ],
+    "main_works": [
+      "Tahafut al-Tahafut"
+    ],
+    "influence_reception": "Averroës’s commentaries shaped Western Scholasticism, notably influencing Aquinas.",
+    "secondary_literature": [
+      "Majid Fakhry, 'Averroes: His Life, Work and Influence'",
+      "Charles E. Butterworth, 'Averroes on Aristotle'"
+    ],
+    "key_quotes": [
+      "\"Philosophy is the handmaiden of religion.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/averroes/",
+      "https://en.wikipedia.org/wiki/Averroes"
+    ]
+  },
+  {
+    "name": "Zhu Xi",
+    "lifespan": "1130 – 1200 CE",
+    "historical_period": "Song Dynasty, Neo-Confucianism",
+    "detailed_biography": "Zhu Xi was a Song dynasty scholar who synthesized Confucian Canon into Four Books. He emphasized li (principle) and qi (material force) in metaphysics and developed the 'investigation of things' method.",
+    "key_ideas": [
+      "Li and qi",
+      "Investigation of things"
+    ],
+    "main_works": [
+      "Commentary on the Four Books"
+    ],
+    "influence_reception": "Zhu Xi became the standard interpreter of Confucianism in East Asia.",
+    "secondary_literature": [
+      "Wang, Robin, 'Neo-Confucianism: A Reader'",
+      "Henry Rosemont Jr., 'A Chinese Mirror'"
+    ],
+    "key_quotes": [
+      "\"Study the past if you would define the future.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/zhu-xi/",
+      "https://en.wikipedia.org/wiki/Zhu_Xi"
+    ]
+  },
+  {
+    "name": "Moses Maimonides",
+    "lifespan": "1138 – 1204 CE",
+    "historical_period": "Medieval Jewish Philosophy, Aristotelianism",
+    "detailed_biography": "Moses Maimonides was born in Córdoba and served as a physician in Egypt. His 'Guide for the Perplexed' reconciles Jewish theology with Aristotelian philosophy. Maimonides’s codification of Jewish law in 'Mishneh Torah' remains influential.",
+    "key_ideas": [
+      "Negative theology",
+      "Reconciling faith and reason"
+    ],
+    "main_works": [
+      "Guide for the Perplexed",
+      "Mishneh Torah"
+    ],
+    "influence_reception": "His works shaped rabbinic Judaism and Christian scholastic thought, influencing Aquinas.",
+    "secondary_literature": [
+      "Stanley Chyet, 'Maimonides: The Life and World of One of Civilization’s Greatest Minds'",
+      "Steven Harvey, 'Maimonides: A Guide for Today'"
+    ],
+    "key_quotes": [
+      "\"The truth is not attained by the multiplication of books.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/maimonides/",
+      "https://en.wikipedia.org/wiki/Maimonides"
+    ]
+  },
+  {
+    "name": "Ibn al-ʿArabī",
+    "lifespan": "1165 – 1240 CE",
+    "historical_period": "Islamic Golden Age, Sufism",
+    "detailed_biography": "Muhyiddin Ibn al-ʿArabī was born in Murcia and wrote extensively on Sufi metaphysics. His concept of 'Wahdat al-Wujud' (Unity of Existence) asserts that all existence is a manifestation of divine reality.",
+    "key_ideas": [
+      "Unity of Existence",
+      "Imaginal world"
+    ],
+    "main_works": [
+      "The Meccan Revelations",
+      "The Bezels of Wisdom"
+    ],
+    "influence_reception": "His mystical philosophy influenced Islamic thought and Western esoteric traditions.",
+    "secondary_literature": [
+      "William C. Chittick, 'The Sufi Path of Knowledge'",
+      "Henry Corbin, 'Creative Imagination in the Sufism of Ibn Arabi'"
+    ],
+    "key_quotes": [
+      "\"He who knows himself knows his Lord.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/ibn-arabi/",
+      "https://en.wikipedia.org/wiki/Ibn_al-Arabi"
+    ]
+  },
+  {
+    "name": "Shinran",
+    "lifespan": "1173 – 1263 CE",
+    "historical_period": "Kamakura Period, Pure Land Buddhism",
+    "detailed_biography": "Shinran was a Japanese Buddhist monk who founded Jodo Shinshu. He emphasized reliance on Amida Buddha’s vow for salvation, teaching that faith alone (shinjin) ensures rebirth in the Pure Land.",
+    "key_ideas": [
+      "Shinjin (true faith)",
+      "Other-power (tariki)"
+    ],
+    "main_works": [
+      "Kyogyoshinsho"
+    ],
+    "influence_reception": "His teachings became the largest Buddhist denomination in Japan.",
+    "secondary_literature": [
+      "Hiroshi Nakamura, 'Shinran: An Introduction to His Life and Thought'",
+      "Richard Stanley, 'The Shin Buddhist Classical Tradition'"
+    ],
+    "key_quotes": [
+      "\"Imperfections are not obstacles to faith.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/shinran/",
+      "https://en.wikipedia.org/wiki/Shinran"
+    ]
+  },
+  {
+    "name": "Thomas von Aquin",
+    "lifespan": "1225 – 1274 CE",
+    "historical_period": "Medieval Scholasticism, Thomism",
+    "detailed_biography": "Thomas Aquinas was born in Roccasecca and studied under Albert the Great. His 'Summa Theologica' systematically presents Christian doctrine using Aristotelian logic. He formulated the Five Ways to prove God’s existence and integrated faith with reason.",
+    "key_ideas": [
+      "Natural law",
+      "Five Ways",
+      "Essence–existence in creatures"
+    ],
+    "main_works": [
+      "Summa Theologica",
+      "Summa Contra Gentiles"
+    ],
+    "influence_reception": "Aquinas became the central figure of Catholic theology and is a Doctor of the Church.",
+    "secondary_literature": [
+      "Giles of Rome, 'Lectura super Boetius de Trinitate'",
+      "Brian Davies, 'The Thought of Thomas Aquinas'"
+    ],
+    "key_quotes": [
+      "\"To one who has faith, no explanation is necessary.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/aquinas/",
+      "https://en.wikipedia.org/wiki/Thomas_Aquinas"
+    ]
+  },
+  {
+    "name": "Johannes Duns Scotus",
+    "lifespan": "c. 1266 – 8 November 1308 CE",
+    "historical_period": "High Scholasticism",
+    "detailed_biography": "Duns Scotus was a Scottish Franciscan theologian who emphasized the univocity of being. In 'Ordinatio' he argues that concepts apply equally to God and creatures. He also proposed the Immaculate Conception doctrine.",
+    "key_ideas": [
+      "Univocity of being",
+      "Formal distinction",
+      "Primacy of will"
+    ],
+    "main_works": [
+      "Ordinatio",
+      "Reportatio"
+    ],
+    "influence_reception": "He influenced late medieval theology and was called 'Doctor Subtilis'.",
+    "secondary_literature": [
+      "Thomas Williams, 'The Cambridge Companion to Duns Scotus'",
+      "John D. Anscar Chupungco, 'Duns Scotus’s Doctrine of the Formal Distinction'"
+    ],
+    "key_quotes": [
+      "\"Being is said of God and creatures in the same way (univocally).\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/duns-scotus/",
+      "https://en.wikipedia.org/wiki/Duns_Scotus"
+    ]
+  },
+  {
+    "name": "Wilhelm von Ockham",
+    "lifespan": "c. 1287 – 1347 CE",
+    "historical_period": "Late Scholasticism",
+    "detailed_biography": "William of Ockham was an English Franciscan friar known for Ockham’s Razor: 'Entities should not be multiplied beyond necessity.' He argued for nominalism, rejecting universal forms as mental constructs.",
+    "key_ideas": [
+      "Ockham’s Razor",
+      "Nominalism"
+    ],
+    "main_works": [
+      "Summa Logicae",
+      "Opus NONA"
+    ],
+    "influence_reception": "Ockham influenced the development of modern scientific method and empiricism.",
+    "secondary_literature": [
+      "Philotheus Boehner, 'Ockham’s Theory of Terms'",
+      "Paul Vincent Spade, 'William of Ockham'"
+    ],
+    "key_quotes": [
+      "\"Entities must not be multiplied unnecessarily.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/occam/",
+      "https://en.wikipedia.org/wiki/William_of_Ockham"
+    ]
+  },
+  {
+    "name": "Wang Yangming",
+    "lifespan": "1472 – 1529 CE",
+    "historical_period": "Ming Dynasty, Neo-Confucianism",
+    "detailed_biography": "Wang Yangming was a Ming dynasty official who developed the doctrine of the unity of knowledge and action (zhixing heyi). He argued that moral knowledge is innate and realized through self-reflection rather than investigation of things.",
+    "key_ideas": [
+      "Unity of knowledge and action",
+      "Innate moral knowledge (liangzhi)"
+    ],
+    "main_works": [
+      "Instructions for Practical Living"
+    ],
+    "influence_reception": "His school became influential in East Asia, challenging Zhu Xi’s emphasis on study of external objects.",
+    "secondary_literature": [
+      "David Y. F. Ho, 'Starting from Confucius'",
+      "Wang Yang-ming’s Ethical and Political Philosophy"
+    ],
+    "key_quotes": [
+      "\"Knowledge and action are one.\""
+    ],
+    "citations": [
+      "https://plato.stanford.edu/entries/wang-yangming/",
+      "https://en.wikipedia.org/wiki/Wang_Yangming"
+    ]
+  },
+    {
+      "name": "Zhuangzi",
+      "lifespan": "ca. 369 v. Chr. – ca. 286 v. Chr.",
+      "historical_period": "Spätes Zhou-Dynastie, Warring States Periode",
+      "detailed_biography": "Zhuangzi war ein chinesischer Philosoph, der während der Warring States Periode lebte und als einer der bedeutendsten frühen Interpreten des Daoismus gilt. Sein Werk, das ebenfalls 'Zhuangzi' genannt wird, ist bekannt für seinen literarischen Stil und seine philosophischen Parabeln, die die Relativität von Dingen und die Bedeutung des Dao betonen. Zhuangzi lehnte gesellschaftliche Konventionen ab und förderte ein Leben in Harmonie mit der Natur.",
+      "key_ideas": [
+        "Dao (Weg) als zentrales Prinzip",
+        "Relativität von Wahrnehmung und Wahrheit",
+        "Wert der Spontaneität und Natürlichkeit"
+      ],
+      "main_works": [
+        "Zhuangzi"
+      ],
+      "citations": [
+        "https://www.britannica.com/biography/Zhuang-Zhou",
+        "https://studylatam.com/zhuangzi-biography-contributions-and-the-enduring-legacy-of-an-ancient-philosopher/"
+      ]
+    },
+    {
+      "name": "Zenon von Kition",
+      "lifespan": "ca. 334 v. Chr. – ca. 262 v. Chr.",
+      "historical_period": "Hellenistische Periode",
+      "detailed_biography": "Zenon von Kition war ein zyprischer Philosoph und Begründer der Stoa, einer Schule der hellenistischen Philosophie. Er lehrte in Athen und entwickelte eine Philosophie, die auf Tugend, Vernunft und das Leben im Einklang mit der Natur fokussiert war. Seine Lehren betonten die Bedeutung der Selbstbeherrschung und der inneren Ruhe.",
+      "key_ideas": [
+        "Leben gemäß der Natur",
+        "Vernunft als höchstes Gut",
+        "Unterscheidung zwischen dem, was in unserer Kontrolle liegt, und dem, was es nicht ist"
+      ],
+      "main_works": [
+        "Fragmente und Berichte über seine Lehren (keine erhaltenen Originalwerke)"
+      ],
+      "citations": [
+        "https://en.wikipedia.org/wiki/Zeno_of_Citium",
+        "https://www.worldhistory.org/Zeno_of_Citium/"
+      ]
+    },
+    {
+      "name": "Philo von Alexandria",
+      "lifespan": "ca. 20 v. Chr. – ca. 50 n. Chr.",
+      "historical_period": "Spätantike",
+      "detailed_biography": "Philo war ein jüdisch-hellenistischer Philosoph aus Alexandria, der versuchte, die jüdische Theologie mit der griechischen Philosophie, insbesondere dem Platonismus, zu verbinden. Er interpretierte die Tora allegorisch und betonte die Bedeutung des Logos als Vermittler zwischen Gott und der Welt.",
+      "key_ideas": [
+        "Vereinigung von jüdischer Theologie und griechischer Philosophie",
+        "Allegorische Interpretation der Heiligen Schriften",
+        "Logos als göttlicher Mittler"
+      ],
+      "main_works": [
+        "De Opificio Mundi (Über die Schöpfung der Welt)",
+        "De Vita Mosis (Über das Leben des Mose)",
+        "Quis Rerum Divinarum Heres Sit (Wer ist der Erbe der göttlichen Dinge?)"
+      ],
+      "citations": [
+        "https://iep.utm.edu/philo/",
+        "https://cojs.org/the_works_of_philo_of_alexandria-_a_survey_of_his_ideas/"
+      ]
+    },
+    {
+      "name": "Willard Van Orman Quine",
+      "lifespan": "25. Juni 1908 – 25. Dezember 2000",
+      "historical_period": "20. Jahrhundert",
+      "detailed_biography": "Willard Van Orman Quine war ein amerikanischer Philosoph und Logiker, der bedeutende Beiträge zur analytischen Philosophie leistete. Er kritisierte die Unterscheidung zwischen analytischen und synthetischen Aussagen und entwickelte die Theorie der 'ontologischen Relativität'. Seine Arbeit beeinflusste die Philosophie der Sprache, Logik und Erkenntnistheorie.",
+      "key_ideas": [
+        "Kritik der analytisch-synthetischen Unterscheidung",
+        "Ontologische Relativität",
+        "Bestreitbarkeit der Bedeutung"
+      ],
+      "main_works": [
+        "Word and Object",
+        "From a Logical Point of View",
+        "Ontological Relativity and Other Essays"
+      ],
+      "citations": [
+        "https://en.wikipedia.org/wiki/Willard_Van_Orman_Quine",
+        "https://www.britannica.com/biography/Willard-Van-Orman-Quine"
+      ]
+    },
+    {
+      "name": "Simone de Beauvoir",
+      "lifespan": "9. Januar 1908 – 14. April 1986",
+      "historical_period": "20. Jahrhundert",
+      "detailed_biography": "Simone de Beauvoir war eine französische Philosophin, Schriftstellerin und Feministin. Sie war eine zentrale Figur des Existentialismus und setzte sich intensiv mit Fragen der Freiheit, Verantwortung und Geschlechterrollen auseinander. Ihr Werk 'Das andere Geschlecht' gilt als Meilenstein der feministischen Literatur.",
+      "key_ideas": [
+        "Existentialistische Analyse der Geschlechterrollen",
+        "Freiheit und Verantwortung des Individuums",
+        "Kritik an patriarchalen Strukturen"
+      ],
+      "main_works": [
+        "Le Deuxième Sexe (Das andere Geschlecht)",
+        "Pour une morale de l'ambiguïté (Für eine Moral der Zweideutigkeit)",
+        "Les Mandarins (Die Mandarins)"
+      ],
+      "citations": [
+        "https://www.britannica.com/biography/Simone-de-Beauvoir",
+        "https://en.wikipedia.org/wiki/Simone_de_Beauvoir"
+      ]
+    },
+    {
+      "name": "Hannah Arendt",
+      "lifespan": "14. Oktober 1906 – 4. Dezember 1975",
+      "historical_period": "20. Jahrhundert",
+      "detailed_biography": "Hannah Arendt war eine deutsch-amerikanische politische Theoretikerin, bekannt für ihre Arbeiten über Totalitarismus, Autorität und die Natur des Bösen. Sie prägte den Begriff der 'Banalität des Bösen' und betonte die Bedeutung des öffentlichen Raums und der aktiven Teilnahme am politischen Leben.",
+      "key_ideas": [
+        "Analyse des Totalitarismus",
+        "Banalität des Bösen"   
+      ],
+      "main_works": [
+        "Le Deuxième Sexe (Das andere Geschlecht)",
+        "Pour une morale de l'ambiguïté (Für eine Moral der Zweideutigkeit)",
+        "Les Mandarins (Die Mandarins)"
+      ],
+      "citations": [
+        "https://plato.stanford.edu/entries/arendt/",
+        "https://de.wikipedia.org/wiki/Hannah_Arendt"
+      ]
+      },
+      {
+        "name": "Epikur",
+        "lifespan": "341 v. Chr. – 270 v. Chr.",
+        "historical_period": "Hellenistische Philosophie",
+        "detailed_biography": "Epikur wurde auf der Insel Samos geboren und gründete später in Athen die Schule 'Der Garten', die für ihre Offenheit gegenüber Frauen und Sklaven bekannt war. Er entwickelte eine Philosophie, die auf der Suche nach Glück durch die Vermeidung von Schmerz und Angst basierte. Epikur lehrte, dass das höchste Gut die Ataraxie ist – ein Zustand der Seelenruhe und Freiheit von Furcht. Seine Lehren betonten die Bedeutung von Freundschaft, Mäßigung und dem Verzicht auf übermäßige Wünsche. Obwohl viele seiner Werke verloren gegangen sind, sind einige Briefe und Lehren erhalten geblieben, die seine Philosophie dokumentieren.",
+        "key_ideas": [
+          "Hedonismus als Streben nach geistiger Lust und Schmerzfreiheit",
+          "Ataraxie (Seelenruhe) als höchstes Ziel",
+          "Atomistische Materialismus",
+          "Ablehnung der göttlichen Einmischung in die Welt",
+          "Wichtigkeit von Freundschaft und einfachem Leben"
+        ],
+        "main_works": [
+          "Brief an Menoikeus",
+          "Brief an Herodot",
+          "Brief an Pythokles",
+          "Hauptlehren (Kyriai Doxai)",
+          "Vaticanische Sprüche"
+        ],
+        "citations": [
+          "https://www.britannica.com/biography/Epicurus",
+          "https://iep.utm.edu/epicur/",
+          "https://daily-philosophy.com/epicurus-principal-doctrines-explained/"
+        ]
+      },
+      {
+        "name": "Pyrrhon von Elis",
+        "lifespan": "ca. 360 v. Chr. – ca. 270 v. Chr.",
+        "historical_period": "Hellenistische Philosophie",
+        "detailed_biography": "Pyrrhon von Elis war ein griechischer Philosoph und gilt als Begründer des Pyrrhonismus, einer Form des Skeptizismus. Ursprünglich als Maler tätig, wandte er sich später der Philosophie zu und begleitete Alexander den Großen auf dessen Feldzug nach Indien, wo er mit verschiedenen philosophischen Strömungen in Kontakt kam. Nach seiner Rückkehr lehrte er in seiner Heimatstadt Elis, wo er hohes Ansehen genoss. Seine Lehren sind hauptsächlich durch die Schriften seines Schülers Timon von Phleius überliefert.",
+        "key_ideas": [
+          "Skepsis gegenüber der Möglichkeit sicheren Wissens",
+          "Epoché (Urteilsenthaltung) als Weg zur Ataraxie (Seelenruhe)",
+          "Adiaphora (Gleichgültigkeit gegenüber dogmatischen Urteilen)"
+        ],
+        "main_works": [
+          "Keine eigenen Werke erhalten; Lehren überliefert durch Timon von Phleius"
+        ],
+        "citations": [
+          "https://de.wikipedia.org/wiki/Pyrrhon_von_Elis",
+          "https://www.spektrum.de/lexikon/philosophen/pyrrhon-von-elis/272"
+        ]
+      },
+      {
+        "name": "Jean-Paul Sartre",
+        "lifespan": "21. Juni 1905 – 15. April 1980",
+        "historical_period": "20. Jahrhundert, Moderne",
+        "detailed_biography": "Jean-Paul Sartre war ein französischer Philosoph, Schriftsteller und Dramatiker, der als Hauptvertreter des Existentialismus gilt. Er studierte an der École Normale Supérieure in Paris und wurde stark von Edmund Husserl und Martin Heidegger beeinflusst. Während des Zweiten Weltkriegs war er in der Résistance aktiv. Nach dem Krieg engagierte er sich politisch und lehnte 1964 den Nobelpreis für Literatur ab, um seine Unabhängigkeit zu wahren. Sartre war bekannt für seine enge persönliche und intellektuelle Partnerschaft mit Simone de Beauvoir.",
+        "key_ideas": [
+          "Existenz geht der Essenz voraus",
+          "Radikale Freiheit und Verantwortung",
+          "Schlechte Glauben (mauvaise foi)",
+          "Engagement und politische Verantwortung des Intellektuellen",
+          "Beziehung zwischen 'Für-sich' und 'An-sich' im Bewusstsein"
+        ],
+        "main_works": [
+          "Das Sein und das Nichts (1943)",
+          "Der Ekel (1938)",
+          "Geschlossene Gesellschaft (1944)",
+          "Kritik der dialektischen Vernunft (1960)",
+          "Existentialismus ist ein Humanismus (1946)"
+        ],
+        "citations": [
+          "https://de.wikipedia.org/wiki/Jean-Paul_Sartre",
+          "https://www.britannica.com/biography/Jean-Paul-Sartre",
+          "https://owlcation.com/humanities/Key-Concepts-of-the-Philsophy-of-Jean-Paul-Satre"
+        ]
+      }       
+]

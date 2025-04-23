@@ -1,0 +1,503 @@
+[
+    {
+      "name": "Pythagoras",
+      "description": "Antiker griechischer Philosoph und Mathematiker, Gründer der pythagoreischen Schule mit dem Grundsatz »Alles ist Zahl«.",
+      "links": ["https://de.wikipedia.org/wiki/Pythagoras"]
+    },
+    {
+      "name": "Konfuzius",
+      "description": "Chinesischer Philosoph (551–479 v. Chr.), Begründer des Konfuzianismus, dessen Ethik und Staatslehre das ostasiatische Denken prägten.",
+      "links": ["https://de.wikipedia.org/wiki/Konfuzius"]
+    },
+    {
+      "name": "Heraklit",
+      "description": "Vorsokratiker aus Ephesos (ca. 535–475 v. Chr.), bekannt für seine Lehre vom ewigen Wandel (»panta rhei«).",
+      "links": ["https://de.wikipedia.org/wiki/Heraklit"]
+    },
+    {
+      "name": "Parmenides",
+      "description": "Vorsokratiker aus Elea (5. Jh. v. Chr.), Begründer der Ontologie, der die Unveränderlichkeit des Seins betonte.",
+      "links": ["https://de.wikipedia.org/wiki/Parmenides"]
+    },
+    {
+      "name": "Zenon von Elea",
+      "description": "Schüler des Parmenides (5. Jh. v. Chr.), berühmt für seine Paradoxien, die Bewegung und Teilbarkeit in Frage stellen.",
+      "links": ["https://de.wikipedia.org/wiki/Zenon_von_Elea"]
+    },
+    {
+      "name": "Sokrates",
+      "description": "Athenischer Philosoph (469–399 v. Chr.), Begründer der sokratischen Dialogmethode und der Ethik als philosophische Disziplin.",
+      "links": ["https://de.wikipedia.org/wiki/Sokrates"]
+    },
+    {
+      "name": "Demokrit",
+      "description": "Vorsokratiker aus Abdera (ca. 460–370 v. Chr.), Vater der Atomistik, der die Welt aus unteilbaren Teilchen erklärte.",
+      "links": ["https://de.wikipedia.org/wiki/Demokrit"]
+    },
+    {
+      "name": "Platon",
+      "description": "Schüler des Sokrates (427–347 v. Chr.), Gründer der Akademie in Athen und Urheber der Ideenlehre (Platonismus).",
+      "links": ["https://de.wikipedia.org/wiki/Platon"]
+    },
+    {
+      "name": "Aristoteles",
+      "description": "Schüler Platons (384–322 v. Chr.), umfassender Denker, der Logik, Ethik, Politik, Metaphysik und Naturwissenschaften systematisierte.",
+      "links": ["https://de.wikipedia.org/wiki/Aristoteles"]
+    },
+    {
+      "name": "Mencius",
+      "description": "Chinesischer Konfuzianer (372–289 v. Chr.), betonte die angeborene Güte des Menschen und entwickelte die konfuzianische Ethik weiter.",
+      "links": ["https://de.wikipedia.org/wiki/Mencius"]
+    },
+    {
+      "name": "Zhuangzi",
+      "description": "Daoistischer Philosoph (4. Jh. v. Chr.), Verfasser des Werkes »Zhuangzi«, das Spontaneität und relative Perspektiven in den Vordergrund stellt.",
+      "links": ["https://de.wikipedia.org/wiki/Zhuangzi"]
+    },
+    {
+      "name": "Pyrrhon von Elis",
+      "description": "Griechischer Skeptiker (ca. 360–270 v. Chr.), Begründer des Pyrrhonismus, der wissenschaftlichen Zweifel als Lebenshaltung propagierte.",
+      "links": ["https://de.wikipedia.org/wiki/Pyrrhon_von_Elis"]
+    },
+    {
+      "name": "Epikur",
+      "description": "Griechischer Philosoph (341–270 v. Chr.), Gründer der Epikureischen Schule, die Lust als Abwesenheit von Schmerz definierte.",
+      "links": ["https://de.wikipedia.org/wiki/Epikur"]
+    },
+    {
+      "name": "Zenon von Kition",
+      "description": "Griechisch-zypriotischer Philosoph (334–262 v. Chr.), Begründer der Stoa, die Tugend als einziges Gut ansah.",
+      "links": ["https://de.wikipedia.org/wiki/Zenon_von_Kition"]
+    },
+    {
+      "name": "Philo von Alexandria",
+      "description": "Jüdisch-hellenistischer Denker (ca. 20 v. Chr.–50 n. Chr.), der griechische Philosophie mit jüdischer Bibelauslegung versöhnte.",
+      "links": ["https://de.wikipedia.org/wiki/Philo_von_Alexandria"]
+    },
+    {
+      "name": "Mark Aurel",
+      "description": "Römischer Kaiser (121–180 n. Chr.) und Stoiker, dessen Tagebuch (»Selbstbetrachtungen«) bis heute als philosophisches Werk gilt.",
+      "links": ["https://de.wikipedia.org/wiki/Mark_Aurel"]
+    },
+    {
+      "name": "Nagarjuna",
+      "description": "Indischer Mahayana-Buddhist (2. Jh. n. Chr.), Begründer der Schule des Madhyamaka (»Mittlerer Weg«).",
+      "links": ["https://de.wikipedia.org/wiki/Nagarjuna"]
+    },
+    {
+      "name": "Plotin",
+      "description": "Griechisch-römischer Neuplatoniker (204–270 n. Chr.), Entwickler der Emanationslehre vom Einen.",
+      "links": ["https://de.wikipedia.org/wiki/Plotin"]
+    },
+    {
+      "name": "Sextus Empiricus",
+      "description": "Griechischer Arzt und Skeptiker (3. Jh. n. Chr.), dessen Schriften wesentliche Quellen zum antiken Skeptizismus sind.",
+      "links": ["https://de.wikipedia.org/wiki/Sextus_Empiricus"]
+    },
+    {
+      "name": "Augustinus von Hippo",
+      "description": "Kirchenvater (354–430 n. Chr.), dessen »Bekenntnisse« und »Staatslehre« die mittelalterliche Theologie prägten.",
+      "links": ["https://de.wikipedia.org/wiki/Augustinus_von_Hippo"]
+    },
+    {
+      "name": "Hypatia",
+      "description": "Alexandrinische Philosophin und Mathematikerin (ca. 350–415 n. Chr.), Symbol der antiken Wissenschaft und Frauenbildung.",
+      "links": ["https://de.wikipedia.org/wiki/Hypatia"]
+    },
+    {
+      "name": "Boethius",
+      "description": "Spätantiker Philosoph (480–524 n. Chr.), Autor der »Consolatio philosophiae«, Brückenfigur zwischen Antike und Mittelalter.",
+      "links": ["https://de.wikipedia.org/wiki/Boethius"]
+    },
+    {
+      "name": "Śaṅkara",
+      "description": "Indischer Advaita-Vedanta-Denker (8. Jh.), der Nichtdualismus und die Einheit von Atman und Brahman lehrte.",
+      "links": ["https://de.wikipedia.org/wiki/%C5%9Aa%E1%B9%85kara"]
+    },
+    {
+      "name": "Al-Kindī",
+      "description": "Arabischer Philosoph (ca. 801–873), erster bedeutender Denker der islamischen Philosophie, Wegbereiter von Logik und Naturwissenschaft.",
+      "links": ["https://de.wikipedia.org/wiki/Al-Kind%C4%AB"]
+    },
+    {
+      "name": "Al-Fārābī",
+      "description": "Islamischer Denker (872–950), zweiter Lehrer (nach Aristoteles) im islamischen Mittelalter, prägte Politik- und Musikphilosophie.",
+      "links": ["https://de.wikipedia.org/wiki/Al-F%C4%81r%C4%81b%C4%AB"]
+    },
+    {
+      "name": "Avicenna",
+      "description": "Persischer Gelehrter (980–1037), Autor der »Kanon der Medizin« und wichtiger Aristoteles-Interpre…",
+      "links": ["https://de.wikipedia.org/wiki/Avicenna"]
+    },
+    {
+      "name": "Rāmānuja",
+      "description": "Südindischer Vedanta‑Philosoph (1017–1137), Mitbegründer des Vishishtadvaita (qualifizierter Nichtdualismus).",
+      "links": ["https://de.wikipedia.org/wiki/R%C4%81m%C4%81nuja"]
+    },
+    {
+      "name": "Ibn Gabirol",
+      "description": "Jüdisch-arabischer Philosoph und Dichter (1021–1058), bekannt für seine »Fons Vitae« zur Metaphysik.",
+      "links": ["https://de.wikipedia.org/wiki/Ibn_Gabirol"]
+    },
+    {
+      "name": "Anselm von Canterbury",
+      "description": "Mittelalterlicher Theologe (1033–1109), Ontologischer Gottesbeweis und Erzbischof von Canterbury.",
+      "links": ["https://de.wikipedia.org/wiki/Anselm_von_Canterbury"]
+    },
+    {
+      "name": "Al-Ghazālī",
+      "description": "Islamischer Theologe (1058–1111), Kritiker der Philosophen, Autor des »Tahāfut al-Falāsifa«.",
+      "links": ["https://de.wikipedia.org/wiki/Al-Ghaz%C4%81l%C4%AB"]
+    },
+    {
+      "name": "Peter Abaelard",
+      "description": "Mittelalterlicher Philosoph (1079–1142), Scholastiker, bekannt für Dialektik und Liebesgeschichte mit Héloïse.",
+      "links": ["https://de.wikipedia.org/wiki/Peter_Ab%C3%A1%C3%A9lard"]
+    },
+    {
+      "name": "Averroës",
+      "description": "Islamischer Aristoteles-Kommentator (1126–1198), beeinflusste mittelalterliche Scholastik in Europa.",
+      "links": ["https://de.wikipedia.org/wiki/Averro%C3%ABs"]
+    },
+    {
+      "name": "Zhu Xi",
+      "description": "Chinesischer Neo-Konfuzianer (1130–1200), Systematisierer der konfuzianischen Klassiker und Kommentator.",
+      "links": ["https://de.wikipedia.org/wiki/Zhu_Xi"]
+    },
+    {
+      "name": "Moses Maimonides",
+      "description": "Jüdisch-arabischer Gelehrter (1135–1204), Autor des »Führer der Unschlüssigen«, Verbindung von Aristoteles und Tora.",
+      "links": ["https://de.wikipedia.org/wiki/Moses_Maimonides"]
+    },
+    {
+      "name": "Ibn al-ʿArabī",
+      "description": "Arabischer Mystiker (1165–1240), Begründer der theosophischen Schule des »Wahdat al-Wujud« (Einheit des Seins).",
+      "links": ["https://de.wikipedia.org/wiki/Ibn_al-%27Arab%C4%AB"]
+    },
+    {
+      "name": "Shinran",
+      "description": "Japanischer Buddhist (1173–1263), Gründer der Jōdo-Shinshū-Schule des Reinen Landes.",
+      "links": ["https://de.wikipedia.org/wiki/Shinran"]
+    },
+    {
+      "name": "Thomas von Aquin",
+      "description": "Scholastiker (1225–1274), Synthese von Christlicher Theologie und Aristoteles in der »Summa Theologiae«.",
+      "links": ["https://de.wikipedia.org/wiki/Thomas_von_Aquin"]
+    },
+    {
+      "name": "Johannes Duns Scotus",
+      "description": "Scholastiker (1266–1308), Vertreter der Unbefleckten Empfängnis und der Willensfreiheit gegen Thomas von Aquin.",
+      "links": ["https://de.wikipedia.org/wiki/Johannes_Duns_Scotus"]
+    },
+    {
+      "name": "Wilhelm von Ockham",
+      "description": "Scholastiker (1287–1347), bekannt für das Ockhamsche Prinzip (Sparsamkeitsprinzip) und Nominalismus.",
+      "links": ["https://de.wikipedia.org/wiki/William_of_Ockham"]
+    },
+    {
+      "name": "Niccolò Machiavelli",
+      "description": "Italienischer Politphilosoph (1469–1527), Autor des »Principe«, Begründer der modernen politischen Realismus.",
+      "links": ["https://de.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli"]
+    },
+    {
+      "name": "Wang Yangming",
+      "description": "Chinesischer Neo-Konfuzianer (1472–1529), entwickelte die Lehre von Einheit von Wissen und Handeln (Xin-Guan Yi-Tong).",
+      "links": ["https://de.wikipedia.org/wiki/Wang_Yangming"]
+    },
+    {
+      "name": "Francis Bacon",
+      "description": "Englischer Philosoph (1561–1626), Wegbereiter der empirischen Wissenschaft und des Induktionsprinzips.",
+      "links": ["https://de.wikipedia.org/wiki/Francis_Bacon"]
+    },
+    {
+      "name": "Thomas Hobbes",
+      "description": "Englischer Politphilosoph (1588–1679), Autor von »Leviathan«, befürwortete starken Staat zur Vermeidung des Naturzustands.",
+      "links": ["https://de.wikipedia.org/wiki/Thomas_Hobbes"]
+    },
+    {
+      "name": "René Descartes",
+      "description": "Französischer Rationalist (1596–1650), Begründer des kartesischen Dualismus und des methodischen Zweifels.",
+      "links": ["https://de.wikipedia.org/wiki/Ren%C3%A9_Descartes"]
+    },
+    {
+      "name": "John Locke",
+      "description": "Englischer Empirist (1632–1704), Vater des Liberalismus und Begründer der Erkenntnistheorie, »Essay concerning Human Understanding«.",
+      "links": ["https://de.wikipedia.org/wiki/John_Locke"]
+    },
+    {
+      "name": "Baruch Spinoza",
+      "description": "Niederländischer Rationalist (1632–1677), Pantheist, Autor der »Ethica« in geometrischer Form.",
+      "links": ["https://de.wikipedia.org/wiki/Baruch_Spinoza"]
+    },
+    {
+      "name": "Gottfried Wilhelm Leibniz",
+      "description": "Deutscher Universalgelehrter (1646–1716), Monadenlehre, Mitbegründer der Infinitesimalrechnung.",
+      "links": ["https://de.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"]
+    },
+    {
+      "name": "Giambattista Vico",
+      "description": "Italienischer Geschichtsphilosoph (1668–1744), Autor der »Scienza Nuova«, Begründer der Kulturzyklustheorie.",
+      "links": ["https://de.wikipedia.org/wiki/Giambattista_Vico"]
+    },
+    {
+      "name": "George Berkeley",
+      "description": "Irischer Philosoph (1685–1753), Idealist, formulierte den immateriellen Idealismus »esse est percipi«.",
+      "links": ["https://de.wikipedia.org/wiki/George_Berkeley"]
+    },
+    {
+      "name": "Montesquieu",
+      "description": "Französischer Aufklärer (1689–1755), entwickelte die Gewaltenteilung in ›Vom Geist der Gesetze‹.",
+      "links": ["https://de.wikipedia.org/wiki/Montesquieu"]
+    },
+    {
+      "name": "David Hume",
+      "description": "Schottischer Empirist (1711–1776), Skeptizismus und Induktionsproblem, bedeutender Moralphilosoph.",
+      "links": ["https://de.wikipedia.org/wiki/David_Hume"]
+    },
+    {
+      "name": "Jean-Jacques Rousseau",
+      "description": "Französisch-schweizerischer Denker (1712–1778), Gesellschaftsvertrag und Naturzustand als Basis politischer Philosophie.",
+      "links": ["https://de.wikipedia.org/wiki/Jean-Jacques_Rousseau"]
+    },
+    {
+      "name": "Immanuel Kant",
+      "description": "Deutscher Philosoph (1724–1804), zentral für Aufklärung, Kritik der reinen Vernunft und kategorischer Imperativ.",
+      "links": ["https://de.wikipedia.org/wiki/Immanuel_Kant"]
+    },
+    {
+      "name": "Moses Mendelssohn",
+      "description": "Deutsch-jüdischer Aufklärer (1729–1786), Wegbereiter des Haskala und Vermittler zwischen Judentum und Aufklärung.",
+      "links": ["https://de.wikipedia.org/wiki/Moses_Mendelssohn"]
+    },
+    {
+      "name": "Marquis de Condorcet",
+      "description": "Französischer Aufklärer (1743–1794), Optimist des Fortschritts und Pionier der Wahrscheinlichkeitsrechnung.",
+      "links": ["https://de.wikipedia.org/wiki/Marquis_de_Condorcet"]
+    },
+    {
+      "name": "Jeremy Bentham",
+      "description": "Englischer Utilitarist (1748–1832), Entwickler des Hedonistischen Kalküls und Pionier der modernen Ethik.",
+      "links": ["https://de.wikipedia.org/wiki/Jeremy_Bentham"]
+    },
+    {
+      "name": "Georg Wilhelm Friedrich Hegel",
+      "description": "Deutscher Idealist (1770–1831), Dialektik als Methode und System der spekulativen Philosophie.",
+      "links": ["https://de.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"]
+    },
+    {
+      "name": "Arthur Schopenhauer",
+      "description": "Deutscher Pessimist (1788–1860), Wille als metaphysischer Urgrund, Autor der »Welt als Wille und Vorstellung«.",
+      "links": ["https://de.wikipedia.org/wiki/Arthur_Schopenhauer"]
+    },
+    {
+      "name": "Auguste Comte",
+      "description": "Französischer Positivist (1798–1857), Begründer der Soziologie und der Hierarchie der Wissenschaften.",
+      "links": ["https://de.wikipedia.org/wiki/Auguste_Comte"]
+    },
+    {
+      "name": "John Stuart Mill",
+      "description": "Englischer Utilitarist (1806–1873), Verteidiger der Meinungsfreiheit und Begründer des modernen Liberalismus.",
+      "links": ["https://de.wikipedia.org/wiki/John_Stuart_Mill"]
+    },
+    {
+      "name": "Søren Kierkegaard",
+      "description": "Dänischer Existenzphilosoph (1813–1855), Betonung des Individuums und des subjektiven Glaubens.",
+      "links": ["https://de.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard"]
+    },
+    {
+      "name": "Karl Marx",
+      "description": "Deutsch-arthaus Philosoph und Ökonom (1818–1883), Begründer des Marxismus und der historischen Dialektik.",
+      "links": ["https://de.wikipedia.org/wiki/Karl_Marx"]
+    },
+    {
+      "name": "Herbert Spencer",
+      "description": "Englischer Soziologe (1820–1903), Sozialdarwinist und Begründer des evolutionären Sozialsystems.",
+      "links": ["https://de.wikipedia.org/wiki/Herbert_Spencer"]
+    },
+    {
+      "name": "Wilhelm Dilthey",
+      "description": "Deutscher Philosoph (1833–1911), Begründer der Geisteswissenschaften und hermeneutischen Methode.",
+      "links": ["https://de.wikipedia.org/wiki/Wilhelm_Dilthey"]
+    },
+    {
+      "name": "William James",
+      "description": "US-amerikanischer Pragmatist (1842–1910), Pionier der Psychologie und Philosophie des Pragmatismus.",
+      "links": ["https://de.wikipedia.org/wiki/William_James"]
+    },
+    {
+      "name": "Friedrich Nietzsche",
+      "description": "Deutscher Philosoph (1844–1900), Vorläufer der Lebensphilosophie, bekannt für Übermensch und Willen zur Macht.",
+      "links": ["https://de.wikipedia.org/wiki/Friedrich_Nietzsche"]
+    },
+    {
+      "name": "Gottlob Frege",
+      "description": "Deutscher Logiker (1848–1925), Begründer der modernen Logik und Begriffssemantik.",
+      "links": ["https://de.wikipedia.org/wiki/Gottlob_Frege"]
+    },
+    {
+      "name": "Edmund Husserl",
+      "description": "Deutscher Philosoph (1859–1938), Begründer der Phänomenologie.",
+      "links": ["https://de.wikipedia.org/wiki/Edmund_Husserl"]
+    },
+    {
+      "name": "Henri Bergson",
+      "description": "Französischer Denker (1859–1941), Time and memory; Intuition als Erkenntnismittel.",
+      "links": ["https://de.wikipedia.org/wiki/Henri_Bergson"]
+    },
+    {
+      "name": "John Dewey",
+      "description": "US-amerikanischer Pragmatist (1859–1952), Pädagoge und Sozialreformer, beharrte auf Lernen durch Tun.",
+      "links": ["https://de.wikipedia.org/wiki/John_Dewey"]
+    },
+    {
+      "name": "Alfred North Whitehead",
+      "description": "Englischer Mathematiker und Philosoph (1861–1947), Prozessphilosophie, Mitautor von Principia Mathematica.",
+      "links": ["https://de.wikipedia.org/wiki/Alfred_North_Whitehead"]
+    },
+    {
+      "name": "Benedetto Croce",
+      "description": "Italienischer Idealist (1866–1952), Ästhetik und Geschichtsphilosophie, betonte die Rolle der Geistestätigkeit.",
+      "links": ["https://de.wikipedia.org/wiki/Benedetto_Croce"]
+    },
+    {
+      "name": "Nishida Kitarō",
+      "description": "Japanischer Philosoph (1870–1945), Begründer der Kyōto-Schule und der Logik des Orts (basho).",
+      "links": ["https://de.wikipedia.org/wiki/Nishida_Kitarō"]
+    },
+    {
+      "name": "Bertrand Russell",
+      "description": "Britischer Analytiker (1872–1970), Logiker, Mitbegründer der Analytischen Philosophie und Pazifist.",
+      "links": ["https://de.wikipedia.org/wiki/Bertrand_Russell"]
+    },
+    {
+      "name": "G. E. Moore",
+      "description": "Britischer Philosoph (1873–1958), Pionier der Analytischen Ethik, bekannt für den gesunden Menschenverstand.",
+      "links": ["https://de.wikipedia.org/wiki/G._E._Moore"]
+    },
+    {
+      "name": "Martin Buber",
+      "description": "Österreichischer Sozialphilosoph (1878–1965), bekannt für den Dialog »Ich und Du«. ",
+      "links": ["https://de.wikipedia.org/wiki/Martin_Buber"]
+    },
+    {
+      "name": "Ludwig Wittgenstein",
+      "description": "Österreichischer Analytiker (1889–1951), bedeutender Sprachphilosoph, Autor von »Tractatus logico-philosophicus«.",
+      "links": ["https://de.wikipedia.org/wiki/Ludwig_Wittgenstein"]
+    },
+    {
+      "name": "Martin Heidegger",
+      "description": "Deutscher Existenzphilosoph (1889–1976), Autor von »Sein und Zeit«.",
+      "links": ["https://de.wikipedia.org/wiki/Martin_Heidegger"]
+    },
+    {
+      "name": "Rudolf Carnap",
+      "description": "Deutsch-amerikanischer Logiker (1891–1970), Mitglied des Wiener Kreises und Verfechter des logischen Empirismus.",
+      "links": ["https://de.wikipedia.org/wiki/Rudolf_Carnap"]
+    },
+    {
+      "name": "Karl Popper",
+      "description": "Österreichisch-britischer Wissenschaftstheoretiker (1902–1994), bekannt für Falsifikationismus.",
+      "links": ["https://de.wikipedia.org/wiki/Karl_Popper"]
+    },
+    {
+      "name": "Theodor W. Adorno",
+      "description": "Deutscher Kritischer Theoretiker (1903–1969), Mitglied der Frankfurter Schule.",
+      "links": ["https://de.wikipedia.org/wiki/Theodor_W._Adorno"]
+    },
+    {
+      "name": "Jean-Paul Sartre",
+      "description": "Französischer Existenzialist (1905–1980), Autor von »Das Sein und das Nichts«. ",
+      "links": ["https://de.wikipedia.org/wiki/Jean-Paul_Sartre"]
+    },
+    {
+      "name": "Hannah Arendt",
+      "description": "Deutsch-amerikanische Politphilosophin (1906–1975), bekannt für »Elemente und Ursprünge totaler Herrschaft«.",
+      "links": ["https://de.wikipedia.org/wiki/Hannah_Arendt"]
+    },
+    {
+      "name": "Simone de Beauvoir",
+      "description": "Französische Existenzialistin (1908–1986), Autorin von »Das andere Geschlecht«. ",
+      "links": ["https://de.wikipedia.org/wiki/Simone_de_Beauvoir"]
+    },
+    {
+      "name": "W. V. O. Quine",
+      "description": "US-amerikanischer Logiker (1908–2000), Kritiker der analytischen Trennung von Syntax und Semantik.",
+      "links": ["https://de.wikipedia.org/wiki/W._V._O._Quine"]
+    },
+    {
+      "name": "A. J. Ayer",
+      "description": "Britischer Empirist (1910–1989), Vertreter des logischen Positivismus, Autor von »Language, Truth and Logic«. ",
+      "links": ["https://de.wikipedia.org/wiki/A._J._Ayer"]
+    },
+    {
+      "name": "Wilfrid Sellars",
+      "description": "US-amerikanischer Philosoph (1912–1989), verband analytische Philosophie mit Erkenntnistheorie und Wissenschaftsphilosophie.",
+      "links": ["https://de.wikipedia.org/wiki/Wilfrid_Sellars"]
+    },
+    {
+      "name": "John Rawls",
+      "description": "US-amerikanischer Politphilosoph (1921–2002), Autor von »A Theory of Justice« und Vertragstheorie.",
+      "links": ["https://de.wikipedia.org/wiki/John_Rawls"]
+    },
+    {
+      "name": "Thomas Kuhn",
+      "description": "US-amerikanischer Wissenschaftshistoriker (1922–1996), prägte das Konzept der Paradigmenwechsel.",
+      "links": ["https://de.wikipedia.org/wiki/Thomas_Kuhn"]
+    },
+    {
+      "name": "Michel Foucault",
+      "description": "Französischer Philosoph (1926–1984), Analysen von Macht, Diskurs und Institutionen.",
+      "links": ["https://de.wikipedia.org/wiki/Michel_Foucault"]
+    },
+    {
+      "name": "Noam Chomsky",
+      "description": "US-amerikanischer Linguist und Philosoph (*1928), Pionier der generativen Grammatik und kritischer Intellektueller.",
+      "links": ["https://de.wikipedia.org/wiki/Noam_Chomsky"]
+    },
+    {
+      "name": "Jürgen Habermas",
+      "description": "Deutscher Sozialphilosoph (*1929), Begründer der Theorie des kommunikativen Handelns.",
+      "links": ["https://de.wikipedia.org/wiki/J%C3%BCrgen_Habermas"]
+    },
+    {
+      "name": "Bernard Williams",
+      "description": "Britischer Ethiker (1929–2003), Kritik am Utilitarismus und Skepsis gegenüber moralischen Prinzipien.",
+      "links": ["https://de.wikipedia.org/wiki/Bernard_Williams"]
+    },
+    {
+      "name": "Jacques Derrida",
+      "description": "Französischer Dekonstrukteur (1930–2004), Begründer der Dekonstruktion.",
+      "links": ["https://de.wikipedia.org/wiki/Jacques_Derrida"]
+    },
+    {
+      "name": "Richard Rorty",
+      "description": "US-amerikanischer Pragmatist (1931–2007), Verbindung von Pragmatismus und postmoderner Theorie.",
+      "links": ["https://de.wikipedia.org/wiki/Richard_Rorty"]
+    },
+    {
+      "name": "Robert Nozick",
+      "description": "US-amerikanischer Libertarier (1938–2002), Autor von »Anarchy, State, and Utopia«. ",
+      "links": ["https://de.wikipedia.org/wiki/Robert_Nozi%C3%A9k"]
+    },
+    {
+      "name": "Saul Kripke",
+      "description": "US-amerikanischer Logiker (1940–2022), wichtige Beiträge zur Modallogik und Namengranularität.",
+      "links": ["https://de.wikipedia.org/wiki/Saul_Kripke"]
+    },
+    {
+      "name": "David Lewis",
+      "description": "US-amerikanischer Philosoph (1941–2001), bekannt für mögliche Welten und philosophische Metaphysik.",
+      "links": ["https://de.wikipedia.org/wiki/David_Lewis_(Philosoph)"]
+    },
+    {
+      "name": "Peter Singer",
+      "description": "Australischer Ethiker (*1946), Pionier der Tierethik und praktischen Ethik.",
+      "links": ["https://de.wikipedia.org/wiki/Peter_Singer"]
+    },
+    {
+      "name": "Derek Parfit",
+      "description": "Britischer Ethiker (1942–2017), wegweisende Arbeiten zur Identität und moralischer Rationalität.",
+      "links": ["https://de.wikipedia.org/wiki/Derek_Parfit"]
+    }
+  ]
+  
